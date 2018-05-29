@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+## Ann Lewis
 
-You can use the [editor on GitHub](https://github.com/mathemagica/mathemagica.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- [Upcoming Events](#upcoming-events)
+- [Bios](#bios)
+- [Contact](#contact)
+- [Personal Mission, And Theories of Change](#-personal-mission-and-theories-of-change)
+- [Cyber Security](#cyber-security)
+- [Open Source](#open-source)
+- [Tech Hiring](#tech-hiring)
+- [Tech Culture](#tech-culture)
+- [CTOing](#ctoing)
+- [FAQ](#faq)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Upcoming Events
 
-### Markdown
+- [PDF18 in NYC June 7, 8](https://www.pdf-18.com/) - Personal Democracy Forum is a political tech conference focusing on tech's role creating, strengthening, and securing democracy and its core institutions. I'll be leading a PDFOpen workshop, ["Reverse Engineering the Tech Platforms to Win Campaigns for Change"](https://community.pdf-18.com/c/pdfopen/reverse-engineer-tech-platforms-to-win-campaigns
+) a workshop where organizers can learn about how the incentive structures of big tech companies are used to make decisions, and how to get these companies to respond to collective action. 
+- [NetRoots Nation 2018 Aug 2-4, New Orleans](https://www.netrootsnation.org/) - the largest annual conference for progressives and organizers. I'll be co-leading the training "Tech=Power: How to Find Good Tech People and Get Them to Do What You Want" with Courtney Eimerman-Wallace, the CTO of Color of Change
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Bios
 
-```markdown
-Syntax highlighted code block
+- [Short Bio and Headshot pack]({{ site.bio_pack_url }})
+- Long bio:
 
-# Header 1
-## Header 2
-### Header 3
+Ann Lewis is the CTO of MoveOn.org. She is a technical leader, architect, and active coder with 15 years of experience in software engineering and software management, with a focus on distributed systems and scalability. In her work at MoveOn, she has in-housed tech and hired a tech team, modernized and upgraded MoveOn's software stack, created and scaled up new systems for MoveOn's 2016 election tech program and 2017 Resistance programs, and recently co-ran and launched a rebranding effort across all MoveOn web properties. From her vantage point, the worlds of tech and politics aren't connected enough. This creates opportunities for new collaborations, bringing in best practices from the world of tech to the world of politics and organizing. She's also interested in bringing best practices from progressive organizing into the tech world, to ensure that the new economies and systems of power that the tech industry is creating are fair and equitable, and that people power can hold both governments and tech accountable.
 
-- Bulleted
-- List
+### Contact
 
-1. Numbered
-2. List
+- Conferences and public speaking requests
+- General Questions: submit a PR on this page to add a question to my FAQ
+- Collaboration Opportunities
+- Pitch Your Idea
+- Vendor Inquiries
+- Startup Advising
+- Slacks I'm in: Progressive Coders Network, OPEN, GDI Central VA, cville
+- Working Groups I'm a part of: TMC
 
-**Bold** and _Italic_ and `Code` text
+### Personal Mission, And Theories of Change
 
-[Link](url) and ![Image](src)
-```
+### Cyber Security 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [Slides: Cyber Security in a Trump Era, Feb 2017](https://docs.google.com/presentation/d/1c-FxIkHdGHlZGygDuLuNylOqNsz7Z24wmkQM7hMgBe8/edit#slide=id.p), in collaboration with [Matt Mitchell](https://twitter.com/geminiimatt) 
+- [Medium Article on Meltdown and Spectre, Jan 2018](https://medium.com/@ann_lewis/meltdown-and-spectre-what-you-can-do-to-protect-yourself-df143b8584ff)
 
-### Jekyll Themes
+### Open Source
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mathemagica/mathemagica.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- [Political Tech Scaled with Open Source at MoveOn.org](https://medium.com/@ann_lewis/political-tech-scaled-with-open-source-at-moveon-org-d29542a533ae)
+- 'How to Convince Your Boss to Go Open Source' [video](https://www.youtube.com/watch?v=aBcvLu7FXro) and [slides](https://docs.google.com/presentation/d/1Z8558amnTZDabUfA7nx0QMF0Hi8xLsrgUlY8LySctHo/edit) from the Progressive Coders Network ['Democratizing Democracy'](https://democratizingdemocracy.com) conference 
 
-### Support or Contact
+### Tech Hiring
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Hiring The Best- Building Great Non-Profit Software Teams](https://docs.google.com/presentation/d/1qFf5M5QZ-wFjMJUE_vr5YkIhuVJgdi9ORp-wdr4RbAY/edit?ouid=103215467698179862343&usp=sheets_home&ths=true)
+
+### Tech Culture
+
+### CTOing
+
+### FAQ

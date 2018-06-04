@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 {% seo %}
+    <link rel="icon" type="image/x-icon" href="https://s3.amazonaws.com/annlewis.tech/favicon.ico" />
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
@@ -29,14 +30,6 @@
           <a type="button" href="http://twitter.com/{{ site.twitter }}">
             <i class="fas fa-square fa-stack-2x"></i>
             <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
-          </a>
-        </span>
-        {% endif %}
-        {% if site.github %}
-        <span class="fa-stack fa-2x">
-          <a type="button" href="http://github.com/{{ site.github }}">
-            <i class="fas fa-square fa-stack-2x"></i>
-            <i class="fab fa-github fa-stack-1x fa-inverse"></i>
           </a>
         </span>
         {% endif %}

@@ -1,23 +1,16 @@
 # Ann Lewis
 
 - [Upcoming Events](#upcoming-events)
-- [Bios](#bios)
+- [Bio](/BIO)
 - [Contact](#contact)
 - [Stuff I Care About](#stuff-i-care-about): cyber security, open source software, hiring, tech culture, and team management
-- [FAQ](#faq) (Stuff You Care About)
+- [Stuff You Care About / FAQ](#faq)
 
 ## Upcoming Events
 
 - [PDF18 in NYC June 7, 8](https://www.pdf-18.com/) - Personal Democracy Forum is a political tech conference focusing on tech's role creating, strengthening, and securing democracy and its core institutions. I'll be leading a PDFOpen workshop, ["Reverse Engineering the Tech Platforms to Win Campaigns for Change"](https://community.pdf-18.com/c/pdfopen/reverse-engineer-tech-platforms-to-win-campaigns
 ) a workshop where organizers can learn about how the incentive structures of big tech companies are used to make decisions, and how to get these companies to respond to collective action. 
 - [NetRoots Nation 2018 Aug 2-4, New Orleans](https://www.netrootsnation.org/) - the largest annual conference for progressives and organizers. I'll be co-leading the training "Tech=Power: How to Find Good Tech People and Get Them to Do What You Want" with Courtney Eimerman-Wallace, the CTO of Color of Change
-
-## Bios
-
-- [Short Bio and Headshot pack]({{ site.bio_pack_url }})
-- Long bio:
-
-Ann Lewis is the CTO of MoveOn.org. She is a technical leader, architect, and active coder with 15 years of experience in software engineering and software management, with a focus on distributed systems and scalability. In her work at MoveOn, she has in-housed tech and hired a tech team, modernized and upgraded MoveOn's software stack, created and scaled up new systems for MoveOn's 2016 election tech program and 2017 Resistance programs, and recently co-ran and launched a rebranding effort across all MoveOn web properties. From her vantage point, the worlds of tech and politics aren't connected enough. This creates opportunities for new collaborations, bringing in best practices from the world of tech to the world of politics and organizing. She's also interested in bringing best practices from progressive organizing into the tech world, to ensure that the new economies and systems of power that the tech industry is creating are fair and equitable, and that people power can hold both governments and tech accountable.
 
 ## Contact
 
@@ -29,12 +22,12 @@ I get about 800 emails a week on a slow week, 1200 on a busy week. While I try t
 - Vendor Inquiries: I am generally not open to cold emails from vendors.  
 - Startup Advising: see [FAQ](#will-you-advise-my-startup)
 - Slacks I'm in: 
- - [Progressive Coders Network](https://www.progcode.org/) in the #moveon and #spoke channels. I check new DMs every 2 weeks.
- - [The Movement Cooperative](https://movement-coop.slack.com/) I check channels and DMs weekly
- - [Online Progressive Engagement Network](https://open-and-friends.slack.com/) I check DMs monthly
- - [Progressphiles](https://progressphiles.slack.com/) I check this monthly
- - [Girl Develop It Central VA](https://gdicentralva.slack.com/) I check this weekly
- - [Community of Charlottesville slack](https://cville.slack.com/) I check #cto and #cville monthly
+  - [Progressive Coders Network](https://www.progcode.org/) in the #moveon and #spoke channels. I check new DMs every 2 weeks.
+  - [The Movement Cooperative](https://movement-coop.slack.com/) I check channels and DMs weekly
+  - [Online Progressive Engagement Network](https://open-and-friends.slack.com/) I check DMs monthly
+  - [Progressphiles](https://progressphiles.slack.com/) I check this monthly
+  - [Girl Develop It Central VA](https://gdicentralva.slack.com/) I check this weekly
+  - [Community of Charlottesville slack](https://cville.slack.com/) I check #cto and #cville monthly
 
 ## Stuff I Care About 
 
@@ -51,17 +44,23 @@ You can [invite me to speak](https://docs.google.com/forms/d/e/1FAIpQLSeeR_FEfTE
 
 ### Tech Hiring
 
-- [Hiring The Best- Building Great Non-Profit Software Teams](https://docs.google.com/presentation/d/1qFf5M5QZ-wFjMJUE_vr5YkIhuVJgdi9ORp-wdr4RbAY/edit?ouid=103215467698179862343&usp=sheets_home&ths=true)
+- [Hiring The Best- Building Great Non-Profit Software Teams](https://docs.google.com/presentation/d/1qFf5M5QZ-wFjMJUE_vr5YkIhuVJgdi9ORp-wdr4RbAY/view#slide=id.p)
 
 ### Tech Culture
 
 - [What are some ways to inspire girls to embrace technology?](https://medium.com/@ann_lewis/what-are-some-ways-to-inspire-girls-to-embrace-technology-3093759034c8)
-
+- [The Myth of The Pipeline Problem](https://medium.com/@ann_lewis/the-myth-of-the-pipeline-problem-101d8fa1fcba)
+- [Girl Develop It](https://www.girldevelopit.com/): In 2014 I founded the [Central VA chapter of Girl Develop It](https://www.meetup.com/Girl-Develop-It-CentralVA/) and ran it until mid 2016. GDI is a national nonprofit that provides affordable and judgment-free opportunities for women interested in learning  software development. This chapter now has over 500 members and is a thriving community. I was proud to hand over the role of chapter leader to a top student from the very first HTML class I taught!
+- [Tech: Where Do I Fit In](https://s3.amazonaws.com/gdicentralva/tech-where-do-i-fit-in/index.html#) - a talk originally prepared for a Girl Develop It seminar, Jan 2016.
+- [Talk: Salary Negotiation](http://s3.amazonaws.com/annlewis/salary_negotiation/index.html#/) - a talk originally prepared for a Girl Develop It seminar, Nov 2015
 
 ## FAQ
 - [Will you advise my startup?](#will-you-advise-my-startup)
 - [I'm a tech person and I want to help, what can I do?](#im-a-tech-person-and-i-want-to-help-what-can-i-do)
 - [I'm a tech vendor, and I want advice on breaking into the political organizing market](#im-a-tech-vendor-and-i-want-advice-on-breaking-into-the-political-organizing-market)
+- [You're the only technical woman I know, can you explain all the gender in tech stuff to me?](#represent-all-women-in-tech)
+- [I have a daughter and I want her to have the opportunity to be interested in tech like you. What toys did you play with as a kid?](#encouraging-girls-in-tech)
+- [What is your personal style?](#what-is-your-personal-style)
 - [Add a question to this FAQ]()
 
 ### Will you advise my startup? 
@@ -77,7 +76,7 @@ If so, you can reach out to me here (TBD google form)
 
 ### I'm a tech person and I want to help, what can I do?
 
-**Jobs**: MoveOn is often hiring, and you can check out available jobs [here](https://front.moveon.org/careers/). We run rigorous hiring processes for all of our open positions. We appreciate your tech skills and your interest, but please also be advised that because of heightened interest in political tech, and our all-remote workplace, we hire from nationally competitive hiring pools. Our last hiring process had 150 applications for one open position, and we've also seen as many as 250 applications for a single open position.
+**Jobs**: MoveOn is often hiring, and you can check out available jobs [here](https://front.moveon.org/careers/). We run rigorous hiring processes for all of our open positions. We appreciate your tech skills and your interest, but please also be advised that because of heightened interest in political tech, and our all-remote workplace, we hire from nationally competitive hiring pools. The tech team's last hiring process had 150 applications for one open position, and we've also seen as many as 250 applications for a single open position.
 
 **Volunteering**: We have several active open source projects [here](https://front.moveon.org/careers/) and you can check out our open source codebases [here](https://github.com/MoveOnOrg/). We welcome volunteers to hack on these projects, and join our open source communities. We anchor discussion about open source projects in the [Progressive Coders Network](https://www.progcode.org/) slack, in the #moveon and #spoke channels. This is a great place to come hang out and look for tasks to pick up.
 
@@ -87,8 +86,29 @@ If so, you can reach out to me here (TBD google form)
 
 My advice for you:
 - **Don't lead your product pitches with an assumption of technical ignorance.** Most organizers have built elaborate and sometimes massively scaled workflows out of very basic tools, and have a keen sense of how built the right things at the right times, and how to scale. I'd describe them as "people who can build spaceships out of excel spreadsheets."
-- **Don't lead your product pitches with pity**, or with a sense of a savior complex. Yes, you're probably rich because you're in the tech industry, and yes most organizers are probably broke. This doesn't mean that the poor organizers need to be saved by you, it means that even though they probably have as much or more education and relevant experience than you, they chose to do values-aligned work vs get rich. They don't need to be saved with your tools or ideas, you need to prove you are values-aligned enough to earn their attention.
-- **Lead your product pitches with specifics**: specific workflows and specific arguments for what value you're going to add. It's less likely organizers will hire you for the consulting-style work of doing the thinking for them and help them figure out what problems to solve, and more likely to pay for a tool you've built that automates workflows they are currently doing manually. 
+- **Don't lead your product pitches with pity**, or a savior complex. Yes, you're probably rich because you're in the tech industry, and yes most organizers are probably broke. This doesn't mean that the poor organizers need to be saved by you, it means that even though they probably have as much or more education and relevant experience than you, they chose to do values-aligned work vs get rich. They don't need to be saved with your tools or ideas, you need to prove you are values-aligned enough to earn their attention.
+- **Lead your product pitches with specifics**: tell your audience about specific workflows your system unlocks and give specific arguments for what value you're going to add. It's less likely organizers will hire you for the consulting-style work of doing the thinking for them and helping them figure out what problems to solve, and more likely they'll pay for a tool you've built that automates workflows they are currently doing manually. 
 - **Be extremely careful about data privacy.** Nothing will get you a closed door faster than "Can you just hand over your email list?" Keeping member data private and only sharing it with explicit consent is not just a value, it's a key part of an organization's health: member trust = member engagement.
 
+### Represent All Women in Tech
 
+**You're the only technical woman I know, can you explain all the gender in tech stuff to me?** First of all this probably isn't true. Please take a careful look at the other people on the slack channel or email list where you asked this question, and when you notice other women there, take a moment to consider why you didn't think of them in the first place, and how invisible they might feel when they read your comment.
+
+Secondly, I can only represent my experience, and not all women. Being asking to represent the monolith of people who share an identity characteristic with you is an othering experience. We'd all rather be treated like human beings. That being said, you can find some of my opinions on gender and tech [here](https://medium.com/@ann_lewis/what-are-some-ways-to-inspire-girls-to-embrace-technology-3093759034c8) and [here](https://medium.com/@ann_lewis/the-myth-of-the-pipeline-problem-101d8fa1fcba). 
+
+Third, here are several things that women in tech commonly experience, that white men in tech rarely experience:
+- Despite our education and experience, when we meet new tech people, we're expected to establish and firmly defend our credibility or else we'll be immediately written off as not technically credible. This makes first impressions extremely high stakes, and makes social environments that may be comfortable or casual for you inherently a performance for us
+- As a corollary, white men are constantly correcting perceived "errors" or challenging our judgement whenever we speak in any kind of public forum 
+- We expect (and regularly experience) ridicule for asking too many or the wrong questions in professional settings
+
+If as you read this you're realizing you don't actually care about the answer to this question- actually you're running a hiring process and just wanted to try to attract a diverse set of applicants, I recommend you check out my hiring advice [here](https://docs.google.com/presentation/d/1qFf5M5QZ-wFjMJUE_vr5YkIhuVJgdi9ORp-wdr4RbAY/view#slide=id.p). 
+
+If you'd like a more detailed answer, perhaps you'd like to [invite me to speak](https://docs.google.com/forms/d/e/1FAIpQLSeeR_FEfTEC7_YIingt-XwZQcnSMH9B6Zw8LupRu-rux5CL7A/viewform) or meet with your team.
+
+### Encouraging Girls In Tech
+
+**I have a daughter and I want her to have the opportunity to be interested in tech like you. What toys did you play with as a kid?** Sorry, but your premise is flawed. Please read [**this**](https://medium.com/@ann_lewis/what-are-some-ways-to-inspire-girls-to-embrace-technology-3093759034c8) instead. It's not just about toys, it's also about entering and navigating a culture of sexism and a cuurrently unchecked system of oppression. But since you as a parent care about your girl, hopefully this means you're willing to be an ally and use your privilege to actively work to dismantle this.
+
+### What Is Your Personal Style?
+
+No one has ever asked me this, or is likely to ever ask me this. But I have a clever response planned just in case: "unintentional normcore."

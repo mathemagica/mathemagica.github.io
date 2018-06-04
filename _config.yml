@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: "Ann Lewis, CTO MoveOn.org"
-description: "Ann Lewis is a technical leader, architect, and active coder with domain expertise in political tech, distributed systems, ecommerce, edtech, and startups, using a variety of technologies, languages, and platforms. <br/> She's passionate about building great teams, and technical projects that mobilize and amplify the voices of the American people. "
+description: "Ann Lewis is is a technical leader, architect, and active coder with domain expertise in political tech, distributed systems, ecommerce, edtech, and startups, using a variety of technologies, languages, and platforms. She's passionate about cultivating great engineering teams, and building tech that enables collective action and mobilizes Americans at scale. "
 logo: https://s3.amazonaws.com/annlewis.tech/ann_hs.jpg
 image: https://s3.amazonaws.com/annlewis.tech/ann_hs.jpg
 linkedin: theannlewis
@@ -8,4 +8,3 @@ github: mathemagica
 medium: ann_lewis
 twitter: ann_lewis 
 facebook: theannlewis 
-bio_pack_url: 

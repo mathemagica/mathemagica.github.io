@@ -61,7 +61,7 @@ You can [invite me to speak](https://docs.google.com/forms/d/e/1FAIpQLSeeR_FEfTE
 - [You're the only technical woman I know, can you explain all the gender in tech stuff to me?](#represent-all-women-in-tech)
 - [I have a daughter and I want her to have the opportunity to be interested in tech like you. What toys did you play with as a kid?](#encouraging-girls-in-tech)
 - [What is your personal style?](#what-is-your-personal-style)
-- [Add a question to this FAQ]()
+- [Add a question to this FAQ- submit a PR to this README adding your new FAQ question here](https://github.com/mathemagica/mathemagica.github.io/blob/master/README.md)
 
 ### Will you advise my startup? 
 After Trump was elected, lots of tech folks discovered politics, wanted to get involved, and have generated lots of ideas for new tools and apps. As a result, I see a boom in political tech projects and startups, and I get about one request a week to advise a startup. I have domain knowledge in political tech, how organizing teams work, what barriers and opportunities exist, how to actually get new tools adopted, how to scale up actions into tech-enabled movements. So I totally get how I can be useful to you. But I have limited time, and want to spend my time on the most leveraged and equitable possible projects, so here is what you need to do to recruit me as an advisor. 
@@ -72,7 +72,7 @@ Can you affirm all of these statements?
 - You care not just about ideas but also about execution. 90% of startups fail, and 50% of large tech projects (at any size company) fail for avoidable execution related reasons. You have a plan for project strategy and managing your software team beyond "hire smart people and let them figure it out"
 - You have drafted goals not just for getting your cool idea off the ground, but also goals for reaching some marker of scale, measured in terms of user actions
 
-If so, you can reach out to me here (TBD google form)
+If so, [DM me on twitter](https://twitter.com/) and let's chat.
 
 ### I'm a tech person and I want to help, what can I do?
 
@@ -85,9 +85,9 @@ If so, you can reach out to me here (TBD google form)
 ### I'm a tech vendor, and I want advice on breaking into the political organizing market
 
 My advice for you:
-- **Don't lead your product pitches with an assumption of technical ignorance.** Most organizers have built elaborate and sometimes massively scaled workflows out of very basic tools, and have a keen sense of how built the right things at the right times, and how to scale. I'd describe them as "people who can build spaceships out of excel spreadsheets."
+- **Don't lead your product pitches with an assumption of technical ignorance.** Most organizers have built elaborate and sometimes massively scaled workflows out of very basic tools, and have a keen sense of how built the right things at the right times, and how to manage crazy-complicated logistics. I'd describe them as "people who can build spaceships out of excel spreadsheets."
 - **Don't lead your product pitches with pity**, or a savior complex. Yes, you're probably rich because you're in the tech industry, and yes most organizers are probably broke. This doesn't mean that the poor organizers need to be saved by you, it means that even though they probably have as much or more education and relevant experience than you, they chose to do values-aligned work vs get rich. They don't need to be saved with your tools or ideas, you need to prove you are values-aligned enough to earn their attention.
-- **Lead your product pitches with specifics**: tell your audience about specific workflows your system unlocks and give specific arguments for what value you're going to add. It's less likely organizers will hire you for the consulting-style work of doing the thinking for them and helping them figure out what problems to solve, and more likely they'll pay for a tool you've built that automates workflows they are currently doing manually. 
+- **Lead your product pitches with specifics**: tell your audience about specific workflows your system unlocks and give specific arguments for what value you're going to add. It's less likely organizers will hire you for the consulting-style work of doing the thinking for them, and more likely they'll pay for a tool you've built that automates workflows they are currently doing manually. 
 - **Be extremely careful about data privacy.** Nothing will get you a closed door faster than "Can you just hand over your email list?" Keeping member data private and only sharing it with explicit consent is not just a value, it's a key part of an organization's health: member trust = member engagement.
 
 ### Represent All Women in Tech
@@ -96,12 +96,12 @@ My advice for you:
 
 Secondly, I can only represent my experience, and not all women. Being asking to represent the monolith of people who share an identity characteristic with you is an othering experience. We'd all rather be treated like human beings. That being said, you can find some of my opinions on gender and tech [here](https://medium.com/@ann_lewis/what-are-some-ways-to-inspire-girls-to-embrace-technology-3093759034c8) and [here](https://medium.com/@ann_lewis/the-myth-of-the-pipeline-problem-101d8fa1fcba). 
 
-Third, here are several things that women in tech commonly experience, that white men in tech rarely experience:
-- Despite our education and experience, when we meet new tech people, we're expected to establish and firmly defend our credibility or else we'll be immediately written off as not technically credible. This makes first impressions extremely high stakes, and makes social environments that may be comfortable or casual for you inherently a performance for us
-- As a corollary, white men are constantly correcting perceived "errors" or challenging our judgement whenever we speak in any kind of public forum 
+Third, here are several things that women in tech commonly experience, that tend to surprise white men:
+- Despite our education and experience, when women meet new tech people, we're expected to establish and firmly defend our credibility or else we'll be immediately written off as not technically credible. This makes first impressions extremely high stakes, and makes social environments that may be comfortable or casual for you inherently a performance for us
+- As a corollary, men who identify as being a part of the dominant culture in tech are constantly correcting perceived "errors" or challenging our judgement whenever we speak in any kind of public forum 
 - We expect (and regularly experience) ridicule for asking too many or the wrong questions in professional settings
 
-If as you read this you're realizing you don't actually care about the answer to this question- actually you're running a hiring process and just wanted to try to attract a diverse set of applicants, I recommend you check out my hiring advice [here](https://docs.google.com/presentation/d/1qFf5M5QZ-wFjMJUE_vr5YkIhuVJgdi9ORp-wdr4RbAY/view#slide=id.p). 
+If as you read this you're realizing you don't actually care about the answer to this question-- actually you're running a hiring process and just wanted to try to attract a diverse set of applicants-- I recommend you check out my hiring advice [here](https://docs.google.com/presentation/d/1qFf5M5QZ-wFjMJUE_vr5YkIhuVJgdi9ORp-wdr4RbAY/view#slide=id.p). 
 
 If you'd like a more detailed answer, perhaps you'd like to [invite me to speak](https://docs.google.com/forms/d/e/1FAIpQLSeeR_FEfTEC7_YIingt-XwZQcnSMH9B6Zw8LupRu-rux5CL7A/viewform) or meet with your team.
 

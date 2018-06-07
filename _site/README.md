@@ -33,6 +33,9 @@ I get about 800 emails a week on a slow week, 1200 on a busy week. While I try t
 
 You can [invite me to speak](https://docs.google.com/forms/d/e/1FAIpQLSeeR_FEfTEC7_YIingt-XwZQcnSMH9B6Zw8LupRu-rux5CL7A/viewform) or meet with your team or group on any of these topics. Please do not repost or reuse these materials without my explicit permission and attribution.
 
+### Recent Big Projects
+- [How we rebranded MoveOn](https://front.moveon.org/an-updated-logo-and-website-for-moveon-members/)
+
 ### Cyber Security 
 - [Slides: Cyber Security in a Trump Era, Feb 2017](https://docs.google.com/presentation/d/1c-FxIkHdGHlZGygDuLuNylOqNsz7Z24wmkQM7hMgBe8/edit#slide=id.p), in collaboration with [Matt Mitchell](https://twitter.com/geminiimatt) 
 - [Medium Article on Meltdown and Spectre, Jan 2018](https://medium.com/@ann_lewis/meltdown-and-spectre-what-you-can-do-to-protect-yourself-df143b8584ff)
@@ -94,7 +97,7 @@ My advice for you:
 
 **You're the only technical woman I know, can you explain all the gender in tech stuff to me?** First of all this probably isn't true. Please take a careful look at the other people on the slack channel or email list where you asked this question, and when you notice other women there, take a moment to consider why you didn't think of them in the first place, and how invisible they might feel when they read your comment.
 
-Secondly, I can only represent my experience, and not all women. Being asking to represent the monolith of people who share an identity characteristic with you is an othering experience. We'd all rather be treated like human beings. That being said, you can find some of my opinions on gender and tech [here](https://medium.com/@ann_lewis/what-are-some-ways-to-inspire-girls-to-embrace-technology-3093759034c8) and [here](https://medium.com/@ann_lewis/the-myth-of-the-pipeline-problem-101d8fa1fcba). 
+Secondly, I can only represent my experience, and not all women. Being asked to represent the monolith of people who share an identity characteristic with you is an othering experience. We'd all rather be treated like human beings. That being said, you can find some of my opinions on gender and tech [here](https://medium.com/@ann_lewis/what-are-some-ways-to-inspire-girls-to-embrace-technology-3093759034c8) and [here](https://medium.com/@ann_lewis/the-myth-of-the-pipeline-problem-101d8fa1fcba). 
 
 Third, here are several things that women in tech commonly experience, that tend to surprise white men:
 - Despite our education and experience, when women meet new tech people, we're expected to establish and firmly defend our credibility or else we'll be immediately written off as not technically credible. This makes first impressions extremely high stakes, and makes social environments that may be comfortable or casual for you inherently a performance for us
@@ -107,7 +110,7 @@ If you'd like a more detailed answer, perhaps you'd like to [invite me to speak]
 
 ### Encouraging Girls In Tech
 
-**I have a daughter and I want her to have the opportunity to be interested in tech like you. What toys did you play with as a kid?** Sorry, but your premise is flawed. Please read [**this**](https://medium.com/@ann_lewis/what-are-some-ways-to-inspire-girls-to-embrace-technology-3093759034c8) instead. It's not just about toys, it's also about entering and navigating a culture of sexism and a cuurrently unchecked system of oppression. But since you as a parent care about your girl, hopefully this means you're willing to be an ally and use your privilege to actively work to dismantle this.
+**I have a daughter and I want her to have the opportunity to be interested in tech like you. What toys did you play with as a kid?** Sorry, but your premise is flawed. Please read [**this**](https://medium.com/@ann_lewis/what-are-some-ways-to-inspire-girls-to-embrace-technology-3093759034c8) instead. It's not just about toys, it's also about entering and navigating a culture of sexism and a currently unchecked system of oppression. But since you as a parent care about your girl, hopefully this means you're willing to be an ally and use your privilege to actively work to dismantle this.
 
 ### What Is Your Personal Style?
 

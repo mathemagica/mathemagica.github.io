@@ -49,6 +49,10 @@ You can [invite me to speak](https://docs.google.com/forms/d/e/1FAIpQLSeeR_FEfTE
 
 - [Hiring The Best- Building Great Non-Profit Software Teams](https://docs.google.com/presentation/d/1qFf5M5QZ-wFjMJUE_vr5YkIhuVJgdi9ORp-wdr4RbAY/view#slide=id.p)
 
+### Tech Leadership
+- [How to Build a Software Engineering Culture Where Everyone Can Thrive](https://medium.com/@ann_lewis/how-to-build-a-software-engineering-culture-where-everyone-can-thrive-e927bc52ea97)
+- [The Software Engineering Learning Plan](https://medium.com/@ann_lewis/the-software-engineering-learning-plan-c4d97aedf913)
+
 ### Tech Culture
 
 - [What are some ways to inspire girls to embrace technology?](https://medium.com/@ann_lewis/what-are-some-ways-to-inspire-girls-to-embrace-technology-3093759034c8)

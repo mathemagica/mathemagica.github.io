@@ -1,12 +1,17 @@
 # Ann Lewis
 
-- [Upcoming Events](#upcoming-events)
+- [Featured](#featured)
+- [Events](#events)
 - [Bio](/BIO)
 - [Contact](#contact)
 - [Stuff I Care About](#stuff-i-care-about): cyber security, open source software, hiring, tech culture, and team management
 - [Stuff You Care About / FAQ](#faq)
 
-## Upcoming Events
+## Featured
+
+Tech at MoveOn powers organizing at scale. The work we do is important, and how we do this work is just as important. Check out my article, [How to Build a Software Engineering Culture Where Everyone Can Thrive](How to Build a Software Engineering Culture Where Everyone Can Thrive)
+
+## Events
 
 - [PDF18 in NYC June 7, 8](https://www.pdf-18.com/) - Personal Democracy Forum is a political tech conference focusing on tech's role creating, strengthening, and securing democracy and its core institutions. I'll be leading a PDFOpen workshop, ["Reverse Engineering the Tech Platforms to Win Campaigns for Change"](https://community.pdf-18.com/c/pdfopen/reverse-engineer-tech-platforms-to-win-campaigns
 ) a workshop where organizers can learn about how the incentive structures of big tech companies are used to make decisions, and how to get these companies to respond to collective action. 

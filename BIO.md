@@ -5,7 +5,7 @@
 
 ### Short Bio
 
-Ann Lewis is the CTO of MoveOn.org.  She is a technical leader, architect, and active coder with domain expertise in political tech, distributed systems, ecommerce, edtech, and startups, using a variety of technologies, languages, and platforms. She's passionate about cultivating great engineering teams, and building tech that enables collective action, and mobilizes Americans at scale.
+Ann Lewis has been the Chief Technology Officer of MoveOn.org since 2015, and a software engineer since 2003. She is a technical leader, architect, and active coder with domain expertise in political tech, distributed systems, e-commerce, edtech, and startups. Ann is passionate about building tech platforms that scale the impact of collective action, and give every American a voice in our democracy. She believes that bringing the worlds of tech, organizing, and media together can create opportunities for new and innovative collaborations that make our country more fair and hold the powerful accountable. You can find her on twitter here: @ann_lewis
 
 ### Long bio
 

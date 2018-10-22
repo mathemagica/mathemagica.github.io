@@ -13,6 +13,8 @@ Check out my [Tech Lead Survival Guide](https://medium.com/@ann_lewis/tech-lead-
 
 ## Events
 
+- [Fast Company Innovation Festival - "Igniting Movements: How Brands Can Rise To the Occasion"](https://fastcompany.swoogo.com/innovationfestival18/sessions?_ga=2.85276895.713175928.1539042588-1912378899.1532353506) - Hosted by RedPeak and MoveOn
+- [CTOs For Good](https://www.ctosforgood.org/) National Summit: 9/20-9/21 San Francisco
 - [NetRoots Nation 2018 Aug 2-4, New Orleans](https://www.netrootsnation.org/) - the largest annual conference for progressives and organizers. Training: ["Tech=Power: How to Find Good Tech People and Get Them to Do What You Want"](https://docs.google.com/presentation/d/1MiIU-3chCyc4iW8z87pjQPAdNhBdxxsgCNYNmntomfk/view) 
 - [PDF18 in NYC June 7, 8](https://www.pdf-18.com/) - Personal Democracy Forum is a political tech conference focusing on tech's role creating, strengthening, and securing democracy and its core institutions. I'll be leading a PDFOpen workshop, ["Reverse Engineering the Tech Platforms to Win Campaigns for Change"](http://moveon.org/pdf18techplatforms
 ) a workshop where organizers can learn about how the incentive structures of big tech companies are used to make decisions, and how to get these companies to respond to collective action. 
@@ -30,6 +32,7 @@ I get about 800 emails a week on a slow week, 1200 on a busy week. While I try t
   - [Progressive Coders Network](https://www.progcode.org/) in the #moveon and #spoke channels. I check new DMs every 2 weeks.
   - [The Movement Cooperative](https://movement-coop.slack.com/) I check channels and DMs weekly
   - [Online Progressive Engagement Network](https://open-and-friends.slack.com/) I check DMs monthly
+  - [CTOs for Good](https://ctosforgood.slack.com/) I check this monthly
   - [Progressphiles](https://progressphiles.slack.com/) I check this monthly
   - [Girl Develop It Central VA](https://gdicentralva.slack.com/) I check this weekly
   - [Community of Charlottesville slack](https://cville.slack.com/) I check #cto and #cville monthly
@@ -112,14 +115,16 @@ My advice for you:
 
 ### Represent All Women in Tech
 
-**You're the only technical woman I know, can you explain all the gender in tech stuff to me?** First of all this probably isn't true. Please take a careful look at the other people on the slack channel or email list where you asked this question, and when you notice other women there, take a moment to consider why you didn't think of them in the first place, and how invisible they might feel when they read your comment.
+**You're the only technical woman I know, can you explain all the gender in tech stuff to me?** 
 
-Secondly, I can only represent my experience, and not all women. Being asked to represent the monolith of people who share an identity characteristic with you is an othering experience. We'd all rather be treated like human beings. That being said, you can find some of my opinions on gender and tech [here](https://medium.com/@ann_lewis/what-are-some-ways-to-inspire-girls-to-embrace-technology-3093759034c8) and [here](https://medium.com/@ann_lewis/the-myth-of-the-pipeline-problem-101d8fa1fcba). 
+First of all this probably isn't true. Please take a careful look at the other people on the slack channel or email list where you asked this question, and when you notice other women there, take a moment to consider why you didn't think of them in the first place, and how invisible they might feel when they read your comment.
 
-Third, here are several things that women in tech commonly experience, that tend to surprise white men:
-- Despite our education and experience, when women meet new tech people, we're expected to establish and firmly defend our credibility or else we'll be immediately written off as not technically credible. This makes first impressions extremely high stakes, and makes social environments that may be comfortable or casual for you inherently a performance for us
-- As a corollary, men who identify as being a part of the dominant culture in tech are constantly correcting perceived "errors" or challenging our judgement whenever we speak in any kind of public forum 
-- We expect (and regularly experience) ridicule for asking too many or the wrong questions in professional settings
+Secondly, as a cis-gendered white woman, I can only represent my experience, and not all women, and certainly not all gendered identity issues. Being asked to represent the monolith of people who share an identity characteristic is an othering experience. We'd all rather be treated like human beings. That being said, you can find some of my opinions limited to personal experience on gender and tech [here](https://medium.com/@ann_lewis/what-are-some-ways-to-inspire-girls-to-embrace-technology-3093759034c8) and [here](https://medium.com/@ann_lewis/the-myth-of-the-pipeline-problem-101d8fa1fcba). 
+
+Third, as you pursue this path of inquiry, hopefully in the direction of enlightenment, please be aware:
+- If you are asking these questions, you probably have an outwardly visible identity that labels you as an accepted and insider member of tech culture. People who are not so lucky to be labeled as such have to prove that we belong in tech, via every interaction in a tech environment. This means the burden is on us to establish and firmly defend our credibility or else we'll be immediately written off as not technically credible, and excluded from future interactions. This makes first impressions extremely high stakes, and makes social environments that may be comfortable or casual for you inherently a performance for us. So please be aware of this when reaching out and asking questions.
+- Bonus points: if you are aware of the priviledge that automatically being assumed to be credible without constantly trying to prove it affords you, acknowledging this is a great way to build trust.
+- Many people who aren't automatically labeled as being a part of tech culture expect and regularly experience ridicule for asking too many or the wrong questions in professional settings. So please keep that in mind when asking questions, and put some extra energy into being thoughtful, welcoming, and clear.
 
 If as you read this you're realizing you don't actually care about the answer to this question-- actually you're running a hiring process and just wanted to try to attract a diverse set of applicants-- I recommend you check out my hiring advice [here](https://docs.google.com/presentation/d/1qFf5M5QZ-wFjMJUE_vr5YkIhuVJgdi9ORp-wdr4RbAY/view#slide=id.p). 
 

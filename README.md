@@ -11,7 +11,7 @@
 
 ### [I'm hiring!](https://front.moveon.org/careers/?gh_jid=1576108)
 
-Check out [The State of the Union of Political Tech 2019](https://medium.com/@ann_lewis/the-state-of-the-union-of-political-tech-2019-3ec0b2855527) - resistance and innovation in 2018, and the big challenges ahead.
+Check out [How We Hire Tech Folks](https://medium.com/@ann_lewis/how-we-hire-tech-folks-7f36bfec594a) - we're open sourcing our hiring process.
 
 ## Events
 - [The Great Battlefield Podcast - 'The Intersection of Technology with Organizing and Politics, with Ann Lewis CTO of MoveOn'](https://www.resistancedashboard.com/node/533)
@@ -32,13 +32,15 @@ I get about 800 emails a week on a slow week, 1200 on a busy week. While I try t
 - Vendor Inquiries: I am generally not open to cold emails from vendors.  
 - Startup Advising: see [FAQ](#will-you-advise-my-startup)
 - Slacks I'm in: 
-  - [Progressive Coders Network](https://www.progcode.org/) in the #moveon and #spoke channels. I check new DMs every 2 weeks.
-  - [The Movement Cooperative](https://movement-coop.slack.com/) I check channels and DMs weekly
-  - [Online Progressive Engagement Network](https://open-and-friends.slack.com/) I check DMs monthly
-  - [CTOs for Good](https://ctosforgood.slack.com/) I check this monthly
-  - [Progressphiles](https://progressphiles.slack.com/) I check this monthly
+  - [Women In Tech Chat](https://womenintech.slack.com) I check this weekly
   - [Girl Develop It Central VA](https://gdicentralva.slack.com/) I check this weekly
+  - [The Movement Cooperative](https://movement-coop.slack.com/) I check channels and DMs weekly
+  - [Progressive Coders Network](https://www.progcode.org/) in the #moveon and #spoke channels. I check new DMs every 2 weeks.
+  - [CTOs for Good](https://ctosforgood.slack.com/) I check this monthly
   - [Community of Charlottesville slack](https://cville.slack.com/) I check #cto and #cville monthly
+  - [Movement School](https://mvmtschool.slack.com/) I check new DMs monthly
+  - [Progressphiles](https://progressphiles.slack.com/) I check this every other month
+  - [Online Progressive Engagement Network](https://open-and-friends.slack.com/) I check DMs every other month
 
 ## Stuff I Care About 
 
@@ -59,6 +61,7 @@ You can [invite me to speak](https://docs.google.com/forms/d/e/1FAIpQLSeeR_FEfTE
 - ['How to Convince Your Boss to Go Open Source' slides](https://docs.google.com/presentation/d/1Z8558amnTZDabUfA7nx0QMF0Hi8xLsrgUlY8LySctHo/view) and [video](https://www.youtube.com/watch?v=aBcvLu7FXro) from the Progressive Coders Network ['Democratizing Democracy'](https://democratizingdemocracy.com) conference 
 
 ### Tech Hiring
+- [How We Hire Tech Folks](https://medium.com/@ann_lewis/how-we-hire-tech-folks-7f36bfec594a)
 - [Hiring The Best- Building Great Non-Profit Software Teams](https://docs.google.com/presentation/d/1qFf5M5QZ-wFjMJUE_vr5YkIhuVJgdi9ORp-wdr4RbAY/view#slide=id.p)
 - [How To Hire Tech Contractors (Originally a NN18 Training)](https://docs.google.com/presentation/d/1MiIU-3chCyc4iW8z87pjQPAdNhBdxxsgCNYNmntomfk/view) 
 - You can [invite me to give tech hiring talks](https://docs.google.com/forms/d/e/1FAIpQLSeeR_FEfTEC7_YIingt-XwZQcnSMH9B6Zw8LupRu-rux5CL7A/viewform) at your organization. I'll do this for free for progressive nonprofits, in service of building movement tech capacity.

@@ -1,7 +1,8 @@
 ## Ann Lewis Bio and Headshot
 
 ### Headshot
-[Download](https://s3.amazonaws.com/annlewis.tech/ann_hs.jpg)
+[Download Small (200K)](https://s3.amazonaws.com/annlewis.tech/ann_hs-small.jpg)
+[Download Large (900K)](https://s3.amazonaws.com/annlewis.tech/ann_hs-small.jpg)
 
 ### Short Bio (34 words)
 

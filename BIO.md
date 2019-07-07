@@ -3,7 +3,7 @@
 ### Headshot
 [Download Small (200K)](https://s3.amazonaws.com/annlewis.tech/ann_hs-small.jpg)
 
-[Download Large (900K)](https://s3.amazonaws.com/annlewis.tech/ann_hs-small.jpg)
+[Download Large (900K)](https://s3.amazonaws.com/annlewis.tech/ann_hs-large.jpg)
 
 ### Short Bio (34 words)
 

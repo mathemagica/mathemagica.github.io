@@ -1,10 +1,6 @@
-## Featured
-
-### [I'm hiring!](https://front.moveon.org/careers/?gh_jid=1576108)
-
-Check out [How We Hire Tech Folks](https://medium.com/@ann_lewis/how-we-hire-tech-folks-7f36bfec594a) - we're open sourcing our hiring process.
-
 ## Events
+- [NetRoots Nation 2019 July 11-13, Philadelphia, PA](https://www.netrootsnation.org/) Panel: ["Tech For The Movement, Not The Billionaires"](https://www.netrootsnation.org/nn_events/nn19/tech-for-the-movement-not-the-billionaires/) and Panel and Screening of [The Great Hack](https://www.theverge.com/2019/1/30/18200049/the-great-hack-cambridge-analytica-netflix-documentary-film-review-sundance-2019) 
+- [PDF19 in NYC](https://www.pdf19.com/) - "Combatting Disinformation" breakout session
 - [The Great Battlefield Podcast - 'The Intersection of Technology with Organizing and Politics, with Ann Lewis CTO of MoveOn'](https://www.resistancedashboard.com/node/533)
 - [The Movement Cooperative member convening - "How to launch a national crisis response network"](https://docs.google.com/presentation/d/113PUvzYz-8aFWdr-fitKnkfVq7srmPB06eA54oIL90Y/edit#slide=id.g465010c3fa_0_0)
 - [Fast Company Innovation Festival - "Igniting Movements: How Brands Can Rise To the Occasion"](https://fastcompany.swoogo.com/innovationfestival18/sessions?_ga=2.85276895.713175928.1539042588-1912378899.1532353506) - Hosted by RedPeak and MoveOn
@@ -15,21 +11,20 @@ Check out [How We Hire Tech Folks](https://medium.com/@ann_lewis/how-we-hire-tec
 
 ## Contact
 
-I get about 800 emails a week on a slow week, 1200 on a busy week. While I try to eventually respond to all the emails I receive, here are some expectations about when you are likely to hear back from me, and which requests I'll respond to in which ways.
+You can email me, DM me in a slack community, or [DM me on twitter](https://twitter.com/ann_lewis). 
 
-- [Conferences and public speaking requests](https://docs.google.com/forms/d/e/1FAIpQLSeeR_FEfTEC7_YIingt-XwZQcnSMH9B6Zw8LupRu-rux5CL7A/viewform) -- this is a google form that submits to a special email addr that I filter to the top of my inbox. I'm likely to respond within a week.
-- General Questions: if you cold email me, I'll likely read your email within a month, but may not have the capacity to respond. You can also reach me on [twitter](https://twitter.com/ann_lewis). If your question seems generally useful to a community I'm a part of, I may add it to my [FAQ](#faq).
+I'm in ~10 slack communities, and I get about 800 emails a week on a slow week, 1200 on a busy week. While I try to eventually respond to all the contact requests I receive, here are some expectations about when you are likely to hear back from me, and which requests I'll respond to in which ways.
+- [Get my attention- for general outreach and public speaking requests](https://docs.google.com/forms/d/e/1FAIpQLSeeR_FEfTEC7_YIingt-XwZQcnSMH9B6Zw8LupRu-rux5CL7A/viewform) -- this is a google form that submits to a special email addr that I filter to the top of my inbox. I'm likely to respond within a week. 
 - Pitch Your Idea: [Progressive Coders Network](https://www.progcode.org/) slack is a great way to reach me if you have a cool new idea. You may also find others in this community to collaborate with. I'm in the #moveon and #spoke channels, and you can DM me there. You can also email my team with your suggestions and ideas at opensource@moveon.org
 - Vendor Inquiries: I am generally not open to cold emails from vendors.  
-- Startup Advising: see [FAQ](#will-you-advise-my-startup)
+- [Startup Advising](#will-you-advise-my-startup)
 - Slacks I'm in: 
-  - [Women In Tech Chat](https://womenintech.slack.com) I check this weekly
-  - [Girl Develop It Central VA](https://gdicentralva.slack.com/) I check this weekly
   - [The Movement Cooperative](https://movement-coop.slack.com/) I check channels and DMs weekly
   - [Progressive Coders Network](https://www.progcode.org/) in the #moveon and #spoke channels. I check new DMs every 2 weeks.
+  - [Women In Tech Chat](https://womenintech.slack.com) I check this every 2 weeks
+  - [Girl Develop It Central VA](https://gdicentralva.slack.com/) I check this every 2 weeks
   - [CTOs for Good](https://ctosforgood.slack.com/) I check this monthly
   - [Community of Charlottesville slack](https://cville.slack.com/) I check #cto and #cville monthly
-  - [Movement School](https://mvmtschool.slack.com/) I check new DMs monthly
   - [Progressphiles](https://progressphiles.slack.com/) I check this every other month
   - [Online Progressive Engagement Network](https://open-and-friends.slack.com/) I check DMs every other month
 
@@ -69,6 +64,25 @@ You can [invite me to speak](https://docs.google.com/forms/d/e/1FAIpQLSeeR_FEfTE
 - [Girl Develop It](https://www.girldevelopit.com/): In 2014 I founded the [Central VA chapter of Girl Develop It](https://www.meetup.com/Girl-Develop-It-CentralVA/) and ran it until mid 2016. GDI is a national nonprofit that provides affordable and judgment-free opportunities for women interested in learning  software development. This chapter now has over 500 members and is a thriving community. I was proud to hand over the role of chapter leader to a top student from the very first HTML class I taught!
 - [Tech: Where Do I Fit In?](https://s3.amazonaws.com/gdicentralva/tech-where-do-i-fit-in/index.html#) An overview of the different tech and tech-adjacent roles in big and small organizations, originally prepared for a Girl Develop It seminar, Jan 2016.
 - [Talk: Salary Negotiation](http://s3.amazonaws.com/annlewis/salary_negotiation/index.html#/) Why you deserve it, how to actually do it, and how it makes the world more fair. Originally prepared for a Girl Develop It seminar, Nov 2015
+
+## Bio
+
+### Headshot
+[Download Small (200K)](https://s3.amazonaws.com/annlewis.tech/ann_hs-small.jpg)
+
+[Download Large (900K)](https://s3.amazonaws.com/annlewis.tech/ann_hs-large.jpg)
+
+### Short Bio (34 words)
+
+Ann Lewis is the CTO of MoveOn. She is a technical leader, architect, and active coder who is passionate about cultivating great engineering teams, and building tech that powers collective action at scale. [@ann_lewis](https://twitter.com/ann_lewis) 
+
+### Medium Bio (65 words)
+
+Ann Lewis is the CTO of MoveOn.org. She is a technical leader, architect, and active coder with 15+ years of experience in software engineering and software management, with a focus on distributed systems and scalability. Ann is passionate about building tech that powers collective action at scale, and gives every American a voice in our democracy. You can find her on twitter here: [@ann_lewis](https://twitter.com/ann_lewis)
+
+### Long bio (152 words)
+
+Ann Lewis is the CTO of MoveOn.org. She is a technical leader, architect, and active coder with 15+ years of experience in software engineering and software management, with a focus on distributed systems and scalability. In her work at MoveOn, she  in-housed tech and hired a tech team, modernized and upgraded MoveOn’s software infrastructure, created and scaled up new systems for MoveOn’s 2016 presidential election program, 2017 Resistance programs, and 2018 midterm election program, and co-ran and launched a rebranding effort across all MoveOn web properties. Ann sees opportunities for new collaborations between the tech and organizing worlds, to modernize infrastructure, bring in best practices, and scale impact of tools. Ann is passionate about using tech and data to scale the impact of organizing, ensuring that systems of power are fair and accountable, and harnessing people power to hold governments and corporations accountable. You can find her on twitter here: [@ann_lewis](https://twitter.com/ann_lewis)
 
 ## FAQ
 - [Do you run Anne Lewis Strategies?](#anne-lewis)

@@ -1,12 +1,3 @@
-# Ann Lewis
-
-- [Featured](#featured)
-- [Events](#events)
-- [Bio](/BIO)
-- [Contact](#contact)
-- [Stuff I Care About](#stuff-i-care-about): political tech, cyber security, open source, hiring, tech culture, and team management
-- [Stuff I Often Get Asked About](#faq): which Ann Lewis am I, vendor solicitation, how to volunteer, tech and gender 
-
 ## Featured
 
 ### [I'm hiring!](https://front.moveon.org/careers/?gh_jid=1576108)

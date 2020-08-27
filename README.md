@@ -33,7 +33,7 @@ I'm in ~10 slack communities, and I get about 800 emails a week on a slow week, 
 You can [invite me to speak](https://docs.google.com/forms/d/e/1FAIpQLSeeR_FEfTEC7_YIingt-XwZQcnSMH9B6Zw8LupRu-rux5CL7A/viewform) or meet with your team or group on any of these topics. Please do not repost or reuse these materials without my explicit permission and attribution.
 
 ### Political Tech
-- [Rachel Maddow is the new Slashdot Effect! Architecting systems for extremely bursty web traffic driven by the news cycle](https://vimeo.com/434156324/bd2b5f5067), [Slides](https://www.slideshare.net/AnnLewis7/rachel-maddow-is-the-new-slashdot-effect) 
+- [Rachel Maddow is the new Slashdot Effect! Architecting systems for extremely bursty web traffic driven by the news cycle](https://vimeo.com/434156324/bd2b5f5067) [[Slides]](https://www.slideshare.net/AnnLewis7/rachel-maddow-is-the-new-slashdot-effect) [[Video]](https://vimeo.com/434156324/bd2b5f5067)
 - [The State of the Union of Political Tech 2019](https://medium.com/@ann_lewis/the-state-of-the-union-of-political-tech-2019-3ec0b2855527)
 - [The Intersection of Technology with Organizing and Politics](https://www.resistancedashboard.com/node/533)
 - [How to launch a national crisis response network](https://docs.google.com/presentation/d/113PUvzYz-8aFWdr-fitKnkfVq7srmPB06eA54oIL90Y/edit#slide=id.g465010c3fa_0_0)

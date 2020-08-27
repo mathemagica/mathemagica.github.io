@@ -1,6 +1,7 @@
 ## Events
+- [Video](https://vimeo.com/434156324/bd2b5f5067) and [Slides](https://www.slideshare.net/AnnLewis7/rachel-maddow-is-the-new-slashdot-effect) "Rachel Maddow is the new Slashdot Effect! Architecting systems for extremely bursty web traffic driven by the news cycle” at the [2020 Virtual CTO Summit Series: "Scaling Your App"](https://www.crowdcast.io/e/virtual-cto-summit-8), and [2019 New York CTO Summit](https://www.ctoconnection.com/summits/new-york-cto-summit-2019)
 - [NetRoots Nation 2019 July 11-13, Philadelphia, PA](https://www.netrootsnation.org/) Panel: ["Tech For The Movement, Not The Billionaires"](https://www.netrootsnation.org/nn_events/nn19/tech-for-the-movement-not-the-billionaires/) and Panel and Screening of [The Great Hack](https://www.theverge.com/2019/1/30/18200049/the-great-hack-cambridge-analytica-netflix-documentary-film-review-sundance-2019) 
-- [PDF19 in NYC](https://www.pdf19.com/) - "Combatting Disinformation" breakout session
+- [PDF19 in NYC](https://www.pdf19.com/) - "Fighting Disinformation on Social Media" breakout session
 - [The Great Battlefield Podcast - 'The Intersection of Technology with Organizing and Politics, with Ann Lewis CTO of MoveOn'](https://www.resistancedashboard.com/node/533)
 - [The Movement Cooperative member convening - "How to launch a national crisis response network"](https://docs.google.com/presentation/d/113PUvzYz-8aFWdr-fitKnkfVq7srmPB06eA54oIL90Y/edit#slide=id.g465010c3fa_0_0)
 - [Fast Company Innovation Festival - "Igniting Movements: How Brands Can Rise To the Occasion"](https://fastcompany.swoogo.com/innovationfestival18/sessions?_ga=2.85276895.713175928.1539042588-1912378899.1532353506) - Hosted by RedPeak and MoveOn
@@ -15,30 +16,32 @@ You can email me, DM me in a slack community, or [DM me on twitter](https://twit
 
 I'm in ~10 slack communities, and I get about 800 emails a week on a slow week, 1200 on a busy week. While I try to eventually respond to all the contact requests I receive, here are some expectations about when you are likely to hear back from me, and which requests I'll respond to in which ways.
 - [Get my attention- for general outreach and public speaking requests](https://docs.google.com/forms/d/e/1FAIpQLSeeR_FEfTEC7_YIingt-XwZQcnSMH9B6Zw8LupRu-rux5CL7A/viewform) -- this is a google form that submits to a special email addr that I filter to the top of my inbox. I'm likely to respond within a week. 
-- Pitch Your Idea: [Progressive Coders Network](https://www.progcode.org/) slack is a great way to reach me if you have a cool new idea. You may also find others in this community to collaborate with. I'm in the #moveon and #spoke channels, and you can DM me there. You can also email my team with your suggestions and ideas at opensource@moveon.org
+- Pitch Your Idea: email my team with your suggestions and ideas at opensource@moveon.org
 - Vendor Inquiries: I am generally not open to cold emails from vendors.  
 - [Startup Advising](#will-you-advise-my-startup)
 - Slacks I'm in: 
   - [The Movement Cooperative](https://movement-coop.slack.com/) I check channels and DMs weekly
+  - [Aspen Tech Policy Hub](https://atph.slack.com) I check this weekly
+  - [CTOs for Good](https://ctosforgood.slack.com/) [Social impact nonprofit CTOs](https://www.ctosforgood.org/) I check this weekly
   - [Progressive Coders Network](https://www.progcode.org/) in the #moveon and #spoke channels. I check new DMs every 2 weeks.
   - [Women In Tech Chat](https://womenintech.slack.com) I check this every 2 weeks
-  - [Girl Develop It Central VA](https://gdicentralva.slack.com/) I check this every 2 weeks
-  - [CTOs for Good](https://ctosforgood.slack.com/) I check this monthly
   - [Community of Charlottesville slack](https://cville.slack.com/) I check #cto and #cville monthly
-  - [Progressphiles](https://progressphiles.slack.com/) I check this every other month
-  - [Online Progressive Engagement Network](https://open-and-friends.slack.com/) I check DMs every other month
+  - [The OPEN Network Tech Slack](https://open-tech-friends.slack.com) Community of progressive tech folks from around the world. I check this every other month
 
 ## Stuff I Care About 
 
 You can [invite me to speak](https://docs.google.com/forms/d/e/1FAIpQLSeeR_FEfTEC7_YIingt-XwZQcnSMH9B6Zw8LupRu-rux5CL7A/viewform) or meet with your team or group on any of these topics. Please do not repost or reuse these materials without my explicit permission and attribution.
 
 ### Political Tech
+- [Rachel Maddow is the new Slashdot Effect! Architecting systems for extremely bursty web traffic driven by the news cycle](https://vimeo.com/434156324/bd2b5f5067), [Slides](https://www.slideshare.net/AnnLewis7/rachel-maddow-is-the-new-slashdot-effect) 
 - [The State of the Union of Political Tech 2019](https://medium.com/@ann_lewis/the-state-of-the-union-of-political-tech-2019-3ec0b2855527)
 - [The Intersection of Technology with Organizing and Politics](https://www.resistancedashboard.com/node/533)
 - [How to launch a national crisis response network](https://docs.google.com/presentation/d/113PUvzYz-8aFWdr-fitKnkfVq7srmPB06eA54oIL90Y/edit#slide=id.g465010c3fa_0_0)
 - [How we rebranded MoveOn](https://front.moveon.org/an-updated-logo-and-website-for-moveon-members/)
 
 ### Cyber Security 
+- [Medium Article on COVID security scams](https://medium.com/@ann_lewis/protect-yourself-from-the-covid-19-trolls-eeeffc984664)
+- [Medium Article on social media impersonation attacks](https://medium.com/@ann_lewis/social-media-impersonation-attacks-cd03d758cb75)
 - [Slides: Cyber Security in a Trump Era, Feb 2017](https://docs.google.com/presentation/d/1c-FxIkHdGHlZGygDuLuNylOqNsz7Z24wmkQM7hMgBe8/edit#slide=id.p), in collaboration with [Matt Mitchell](https://twitter.com/geminiimatt) 
 - [Medium Article on Meltdown and Spectre, Jan 2018](https://medium.com/@ann_lewis/meltdown-and-spectre-what-you-can-do-to-protect-yourself-df143b8584ff)
 

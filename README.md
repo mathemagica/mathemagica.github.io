@@ -42,7 +42,7 @@ You can [invite me to speak](https://docs.google.com/forms/d/e/1FAIpQLSeeR_FEfTE
 ### Cyber Security 
 - [Medium Article on COVID security scams](https://medium.com/@ann_lewis/protect-yourself-from-the-covid-19-trolls-eeeffc984664)
 - [Medium Article on social media impersonation attacks](https://medium.com/@ann_lewis/social-media-impersonation-attacks-cd03d758cb75)
-- [Slides: Cyber Security in a Trump Era, Feb 2017](https://docs.google.com/presentation/d/1c-FxIkHdGHlZGygDuLuNylOqNsz7Z24wmkQM7hMgBe8/edit#slide=id.p), in collaboration with [Matt Mitchell](https://twitter.com/geminiimatt) 
+- [Slides: Cyber Security in a Trump Era, Feb 2017](https://www.slideshare.net/AnnLewis7/cyber-security-in-a-trump-era), in collaboration with [Matt Mitchell](https://twitter.com/geminiimatt) 
 - [Medium Article on Meltdown and Spectre, Jan 2018](https://medium.com/@ann_lewis/meltdown-and-spectre-what-you-can-do-to-protect-yourself-df143b8584ff)
 
 ### The Power of Open Source Collaborations

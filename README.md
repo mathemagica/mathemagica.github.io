@@ -51,8 +51,8 @@ You can [invite me to speak](https://docs.google.com/forms/d/e/1FAIpQLSeeR_FEfTE
 
 ### Tech Hiring
 - [How We Hire Tech Folks](https://medium.com/@ann_lewis/how-we-hire-tech-folks-7f36bfec594a)
-- [Hiring The Best- Building Great Non-Profit Software Teams](https://docs.google.com/presentation/d/1qFf5M5QZ-wFjMJUE_vr5YkIhuVJgdi9ORp-wdr4RbAY/view#slide=id.p)
-- [How To Hire Tech Contractors (Originally a NN18 Training)](https://docs.google.com/presentation/d/1MiIU-3chCyc4iW8z87pjQPAdNhBdxxsgCNYNmntomfk/view) 
+- [Hiring The Best- Building Great Non-Profit Software Teams](https://drive.google.com/file/d/1NliI4_eSBuZq8U7NoG_p6GPiAXTCYkL6/view?usp=sharing)
+- [How To Hire Tech Contractors (Originally a NN18 Training)](https://drive.google.com/file/d/1HHP-LMNYpkrlwS_Cd-F68Xn_j5UxtwaX/view?usp=sharing) 
 - You can [invite me to give tech hiring talks](https://docs.google.com/forms/d/e/1FAIpQLSeeR_FEfTEC7_YIingt-XwZQcnSMH9B6Zw8LupRu-rux5CL7A/viewform) at your organization. I'll do this for free for progressive nonprofits, in service of building movement tech capacity.
 
 

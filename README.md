@@ -1,4 +1,7 @@
 ## Events
+- ["The Political Tech Landscape"](https://www.infoq.com/podcasts/moveon-spoke-cto/), on the [InfoQ Podcast](https://www.infoq.com/podcasts/)
+- ["The World Is On Fire And So Is Your Website"](https://plus.qconferences.com/plus2020/presentation/architectures-presentation) - how to architect and scale a complex ecosystem of custom tools that power political organizing work on a nonprofit budget, at [QCon Plus 2020](https://plus.qconferences.com/schedule/plus2020/tabular)
+- Organizer, [CTOs For Good](https://www.ctosforgood.org/) National Summit, Oct 2020
 - [Video](https://vimeo.com/434156324/bd2b5f5067) and [Slides](https://www.slideshare.net/AnnLewis7/rachel-maddow-is-the-new-slashdot-effect) "Rachel Maddow is the new Slashdot Effect! Architecting systems for extremely bursty web traffic driven by the news cycle” at the [2020 Virtual CTO Summit Series: "Scaling Your App"](https://www.crowdcast.io/e/virtual-cto-summit-8), and [2019 New York CTO Summit](https://www.ctoconnection.com/summits/new-york-cto-summit-2019)
 - [NetRoots Nation 2019 July 11-13, Philadelphia, PA](https://www.netrootsnation.org/) Panel: ["Tech For The Movement, Not The Billionaires"](https://www.netrootsnation.org/nn_events/nn19/tech-for-the-movement-not-the-billionaires/) and Panel and Screening of [The Great Hack](https://www.theverge.com/2019/1/30/18200049/the-great-hack-cambridge-analytica-netflix-documentary-film-review-sundance-2019) 
 - [PDF19 in NYC](https://www.pdf19.com/) - "Fighting Disinformation on Social Media" breakout session

@@ -1,27 +1,24 @@
 ## Events
 - ["The Political Tech Landscape"](https://www.infoq.com/podcasts/moveon-spoke-cto/), on the [InfoQ Podcast](https://www.infoq.com/podcasts/)
-- ["The World Is On Fire And So Is Your Website"](https://plus.qconferences.com/plus2020/presentation/architectures-presentation) - how to architect and scale a complex ecosystem of custom tools that power political organizing work on a nonprofit budget, at [QCon Plus 2020](https://plus.qconferences.com/schedule/plus2020/tabular)
+- ["The World Is On Fire And So Is Your Website"](https://plus.qconferences.com/plus2020/presentation/architectures-presentation) - how to architect and scale a complex ecosystem of custom tools that power political organizing work on a nonprofit budget, at [QCon Plus 2020](https://plus.qconferences.com/schedule/plus2020/tabular) [[Video]](https://www.dropbox.com/s/3ukhj8laq04py2f/ann_lewis-qconplus.mp4?dl=0) [[Slides]](https://www.slideshare.net/AnnLewis7/the-world-is-on-fire-and-so-is-your-website)
 - Organizer, [CTOs For Good](https://www.ctosforgood.org/) National Summit, Oct 2020
 - [Video](https://vimeo.com/434156324/bd2b5f5067) and [Slides](https://www.slideshare.net/AnnLewis7/rachel-maddow-is-the-new-slashdot-effect) "Rachel Maddow is the new Slashdot Effect! Architecting systems for extremely bursty web traffic driven by the news cycle” at the [2020 Virtual CTO Summit Series: "Scaling Your App"](https://www.crowdcast.io/e/virtual-cto-summit-8), and [2019 New York CTO Summit](https://www.ctoconnection.com/summits/new-york-cto-summit-2019)
 - [NetRoots Nation 2019 July 11-13, Philadelphia, PA](https://www.netrootsnation.org/) Panel: ["Tech For The Movement, Not The Billionaires"](https://www.netrootsnation.org/nn_events/nn19/tech-for-the-movement-not-the-billionaires/) and Panel and Screening of [The Great Hack](https://www.theverge.com/2019/1/30/18200049/the-great-hack-cambridge-analytica-netflix-documentary-film-review-sundance-2019) 
 - [PDF19 in NYC](https://www.pdf19.com/) - "Fighting Disinformation on Social Media" breakout session
 - [The Great Battlefield Podcast - 'The Intersection of Technology with Organizing and Politics, with Ann Lewis CTO of MoveOn'](https://www.resistancedashboard.com/node/533)
-- [The Movement Cooperative member convening - "How to launch a national crisis response network"](https://docs.google.com/presentation/d/113PUvzYz-8aFWdr-fitKnkfVq7srmPB06eA54oIL90Y/edit#slide=id.g465010c3fa_0_0)
 - [Fast Company Innovation Festival - "Igniting Movements: How Brands Can Rise To the Occasion"](https://fastcompany.swoogo.com/innovationfestival18/sessions?_ga=2.85276895.713175928.1539042588-1912378899.1532353506) - Hosted by RedPeak and MoveOn
 - [CTOs For Good](https://www.ctosforgood.org/) National Summit: 9/20-9/21 San Francisco
-- [NetRoots Nation 2018 Aug 2-4, New Orleans](https://www.netrootsnation.org/) - the largest annual conference for progressives and organizers. Training: ["Tech=Power: How to Find Good Tech People and Get Them to Do What You Want"](https://docs.google.com/presentation/d/1MiIU-3chCyc4iW8z87pjQPAdNhBdxxsgCNYNmntomfk/view) 
-- [PDF18 in NYC June 7, 8](https://www.pdf-18.com/) - Personal Democracy Forum is a political tech conference focusing on tech's role creating, strengthening, and securing democracy and its core institutions. I'll be leading a PDFOpen workshop, ["Reverse Engineering the Tech Platforms to Win Campaigns for Change"](http://moveon.org/pdf18techplatforms
-) a workshop where organizers can learn about how the incentive structures of big tech companies are used to make decisions, and how to get these companies to respond to collective action. 
+- [NetRoots Nation 2018 Aug 2-4, New Orleans](https://www.netrootsnation.org/) - the largest annual conference for progressives and organizers. Training: ["Tech=Power: How to Find Good Tech People and Get Them to Do What You Want"](https://www.slideshare.net/AnnLewis7/techpower-how-to-find-good-tech-people-and-get-them-to-do-what-you-want) Designing nonprofit tech procurement processes
+- [PDF18 in NYC June 7, 8](https://www.pdf-18.com/) - Personal Democracy Forum is a political tech conference focusing on tech's role creating, strengthening, and securing democracy and its core institutions. PDFOpen workshop, "Reverse Engineering the Tech Platforms to Win Campaigns for Change" - analyzing the decision-making processes and incentive structures of big tech companies, and how to get these companies to respond to collective action. 
 
 ## Contact
 
 You can email me, DM me in a slack community, or [DM me on twitter](https://twitter.com/ann_lewis). 
 
-I'm in ~10 slack communities, and I get about 800 emails a week on a slow week, 1200 on a busy week. While I try to eventually respond to all the contact requests I receive, here are some expectations about when you are likely to hear back from me, and which requests I'll respond to in which ways.
-- [Get my attention- for general outreach and public speaking requests](https://docs.google.com/forms/d/e/1FAIpQLSeeR_FEfTEC7_YIingt-XwZQcnSMH9B6Zw8LupRu-rux5CL7A/viewform) -- this is a google form that submits to a special email addr that I filter to the top of my inbox. I'm likely to respond within a week. 
-- Pitch Your Idea: email my team with your suggestions and ideas at opensource@moveon.org
+I'm in ~10 slack communities, and I get about 800 emails a week. While I try to eventually respond to all the contact requests I receive, here are some expectations about when you are likely to hear back from me, and which requests I'll respond to in which ways.
+- Get my attention- for general outreach and public speaking requests - [DM me on twitter](https://twitter.com/ann_lewis)
+- Pitch Your Idea: email the MoveOn tech team with your suggestions and ideas at opensource@moveon.org
 - Vendor Inquiries: I am generally not open to cold emails from vendors.  
-- [Startup Advising](#will-you-advise-my-startup)
 - Slacks I'm in: 
   - [The Movement Cooperative](https://movement-coop.slack.com/) I check channels and DMs weekly
   - [Aspen Tech Policy Hub](https://atph.slack.com) I check this weekly
@@ -33,31 +30,32 @@ I'm in ~10 slack communities, and I get about 800 emails a week on a slow week, 
 
 ## Stuff I Care About 
 
-You can [invite me to speak](https://docs.google.com/forms/d/e/1FAIpQLSeeR_FEfTEC7_YIingt-XwZQcnSMH9B6Zw8LupRu-rux5CL7A/viewform) or meet with your team or group on any of these topics. Please do not repost or reuse these materials without my explicit permission and attribution.
+You can invite me to speak or meet with your team or group on any of these topics. Please do not repost or reuse these materials without my explicit permission and attribution.
 
 ### Political Tech
+- ["The World Is On Fire And So Is Your Website"](https://www.slideshare.net/AnnLewis7/the-world-is-on-fire-and-so-is-your-website) - how to architect and scale a complex ecosystem of custom tools that power political organizing work on a nonprofit budget
 - [Rachel Maddow is the new Slashdot Effect! Architecting systems for extremely bursty web traffic driven by the news cycle](https://vimeo.com/434156324/bd2b5f5067) [[Slides]](https://www.slideshare.net/AnnLewis7/rachel-maddow-is-the-new-slashdot-effect) [[Video]](https://vimeo.com/434156324/bd2b5f5067)
 - [The State of the Union of Political Tech 2019](https://medium.com/@ann_lewis/the-state-of-the-union-of-political-tech-2019-3ec0b2855527)
 - [The Intersection of Technology with Organizing and Politics](https://www.resistancedashboard.com/node/533)
-- [How to launch a national crisis response network](https://docs.google.com/presentation/d/113PUvzYz-8aFWdr-fitKnkfVq7srmPB06eA54oIL90Y/edit#slide=id.g465010c3fa_0_0)
 - [How we rebranded MoveOn](https://front.moveon.org/an-updated-logo-and-website-for-moveon-members/)
 
 ### Cyber Security 
-- [Medium Article on COVID security scams](https://medium.com/@ann_lewis/protect-yourself-from-the-covid-19-trolls-eeeffc984664)
-- [Medium Article on social media impersonation attacks](https://medium.com/@ann_lewis/social-media-impersonation-attacks-cd03d758cb75)
+- [Medium: Digital Security Policy Template for Nonprofits](https://ann-lewis.medium.com/digital-security-policy-template-for-nonprofits-59d7d0419edc)
+- [Medium: Security Checklist](https://ann-lewis.medium.com/new-years-resolution-improve-your-personal-digital-security-d8aef84f6742)
+- [Medium: COVID security scams](https://medium.com/@ann_lewis/protect-yourself-from-the-covid-19-trolls-eeeffc984664)
+- [Medium: social media impersonation attacks](https://medium.com/@ann_lewis/social-media-impersonation-attacks-cd03d758cb75)
 - [Slides: Cyber Security in a Trump Era, Feb 2017](https://www.slideshare.net/AnnLewis7/cyber-security-in-a-trump-era), in collaboration with [Matt Mitchell](https://twitter.com/geminiimatt) 
-- [Medium Article on Meltdown and Spectre, Jan 2018](https://medium.com/@ann_lewis/meltdown-and-spectre-what-you-can-do-to-protect-yourself-df143b8584ff)
+- [Medium: Meltdown and Spectre, Jan 2018](https://medium.com/@ann_lewis/meltdown-and-spectre-what-you-can-do-to-protect-yourself-df143b8584ff)
 
 ### The Power of Open Source Collaborations
 - [Political Tech Scaled with Open Source at MoveOn.org](https://medium.com/@ann_lewis/political-tech-scaled-with-open-source-at-moveon-org-d29542a533ae)
-- ['How to Convince Your Boss to Go Open Source' slides](https://docs.google.com/presentation/d/1Z8558amnTZDabUfA7nx0QMF0Hi8xLsrgUlY8LySctHo/view) and [video](https://www.youtube.com/watch?v=aBcvLu7FXro) from the Progressive Coders Network ['Democratizing Democracy'](https://democratizingdemocracy.com) conference 
+- 'How to Convince Your Boss to Go Open Source' [video](https://www.youtube.com/watch?v=aBcvLu7FXro) from the Progressive Coders Network ['Democratizing Democracy'](https://democratizingdemocracy.com) conference 
 
 ### Tech Hiring
 - [How We Hire Tech Folks](https://medium.com/@ann_lewis/how-we-hire-tech-folks-7f36bfec594a)
-- [Hiring The Best- Building Great Non-Profit Software Teams](https://drive.google.com/file/d/1NliI4_eSBuZq8U7NoG_p6GPiAXTCYkL6/view?usp=sharing)
-- [How To Hire Tech Contractors (Originally a NN18 Training)](https://drive.google.com/file/d/1HHP-LMNYpkrlwS_Cd-F68Xn_j5UxtwaX/view?usp=sharing) 
-- You can [invite me to give tech hiring talks](https://docs.google.com/forms/d/e/1FAIpQLSeeR_FEfTEC7_YIingt-XwZQcnSMH9B6Zw8LupRu-rux5CL7A/viewform) at your organization. I'll do this for free for progressive nonprofits, in service of building movement tech capacity.
-
+- [Hiring The Best- Building Great Non-Profit Software Teams](https://www.slideshare.net/AnnLewis7/hiring-the-best-7152017)
+- ["Tech=Power: How to Find Good Tech People and Get Them to Do What You Want"](https://www.slideshare.net/AnnLewis7/techpower-how-to-find-good-tech-people-and-get-them-to-do-what-you-want) Designing nonprofit tech procurement processes
+- You can invite me to give tech hiring talks at your organization. I'll do this for free for progressive nonprofits.
 
 ### Tech Leadership
 - [Tech Lead Survival Guide](https://medium.com/@ann_lewis/tech-lead-survival-guide-aeee065fe0f5)
@@ -92,7 +90,6 @@ Ann Lewis is the CTO of MoveOn.org. She is a technical leader, architect, and ac
 
 ## FAQ
 - [Do you run Anne Lewis Strategies?](#anne-lewis)
-- [Will you advise my startup?](#will-you-advise-my-startup)
 - [I'm a tech person and I want to help, what can I do?](#im-a-tech-person-and-i-want-to-help-what-can-i-do)
 - [I'm a tech vendor, and I want advice on breaking into the political organizing market](#im-a-tech-vendor-and-i-want-advice-on-breaking-into-the-political-organizing-market)
 - [You're the only technical woman I know, can you explain all the gender in tech stuff to me?](#represent-all-women-in-tech)
@@ -102,17 +99,6 @@ Ann Lewis is the CTO of MoveOn.org. She is a technical leader, architect, and ac
 
 ### Do you run Anne Lewis Strategies?
 No. That's [the other Anne Lewis](http://annelewisllc.com/) who is a different person. I am also not Clinton strategist [Ann Frank Lewis](https://en.wikipedia.org/wiki/Ann_Lewis). There are many Ann(s) Lewis. One day we will have an Ann(e) Lewis conference and officially disambiguate.
-
-### Will you advise my startup? 
-After Trump was elected, lots of tech folks discovered politics, wanted to get involved, and have generated lots of ideas for new tools and apps. As a result, I see a boom in political tech projects and startups, and I get about one request a month to advise a startup. Unfortunately I have limited time, and want to spend my time on the most leveraged and equitable possible projects, so here is guidance on how to recruit me as an advisor. 
-
-Can you affirm all of these statements?
-- You have done your homework about the state of political organizing, and the current landscape of tools. This includes: you are on a few progressive organizing email lists, you have responded to at least one progressive organizing group's call to action, you have done a "high-bar ask" action like canvassing once, you have researched political CRMs and election data sets like the voter file
-- You are committed to [equitable hiring practices](#tech-hiring), understand why this is critical to success and not just doing some marginalized groups a favor, and have a plan to hold yourself accountable to recruiting and advertising your jobs to a population of candidates that is representative of the progressive movement
-- You care not just about ideas but also about execution. 90% of startups fail, and 50% of large tech projects (at any size company) fail for avoidable execution related reasons. You have a plan for project strategy and managing your software team beyond "hire smart people and let them figure it out"
-- You have drafted goals not just for getting your cool idea off the ground, but also goals for reaching some marker of scale, measured in terms of user actions
-
-If so, [DM me on twitter](https://twitter.com/) and let's chat.
 
 ### I'm a tech person and I want to help, what can I do?
 
@@ -143,9 +129,7 @@ Third, as you pursue this path of inquiry, hopefully in the direction of enlight
 - Bonus points: if you are aware of the priviledge that automatically being assumed to be credible without constantly trying to prove it affords you, acknowledging this is a great way to build trust.
 - Many people who aren't automatically labeled as being a part of tech culture expect and regularly experience ridicule for asking too many or the wrong questions in professional settings. So please keep that in mind when asking questions, and put some extra energy into being thoughtful, welcoming, and clear.
 
-If as you read this you're realizing you don't actually care about the answer to this question-- actually you're running a hiring process and just wanted to try to attract a diverse set of applicants-- I recommend you check out my hiring advice [here](https://docs.google.com/presentation/d/1qFf5M5QZ-wFjMJUE_vr5YkIhuVJgdi9ORp-wdr4RbAY/view#slide=id.p). 
-
-If you'd like a more detailed answer, perhaps you'd like to [invite me to speak](https://docs.google.com/forms/d/e/1FAIpQLSeeR_FEfTEC7_YIingt-XwZQcnSMH9B6Zw8LupRu-rux5CL7A/viewform) or meet with your team.
+If as you read this you're realizing you don't actually care about the answer to this question-- actually you're running a hiring process and just wanted to try to attract a diverse set of applicants-- I recommend you check out my hiring advice [here](https://www.slideshare.net/AnnLewis7/hiring-the-best-7152017) and [here](https://blog.usejournal.com/how-we-hire-tech-folks-7f36bfec594a?source=your_stories_page-------------------------------------&gi=cbd2496e788d). 
 
 ### Encouraging Girls In Tech
 

@@ -1,5 +1,5 @@
 ## Social
-- [LinkedIn](www.linkedin.com/in/theannlewis)
+- [LinkedIn](https://www.linkedin.com/in/theannlewis)
 - [Twitter](https://twitter.com/ann_lewis) Note: I will <strong>not</strong> answer customer service inquiries on Twitter
 
 ## Events

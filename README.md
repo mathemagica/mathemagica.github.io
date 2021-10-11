@@ -3,6 +3,7 @@
 - [Twitter](https://twitter.com/ann_lewis) Note: I will <strong>not</strong> answer customer service inquiries on Twitter
 
 ## Events
+- ["Hybrid Teams"](https://docs.google.com/presentation/d/1mDOSXqu8z4eo8P3qMrkEmK-pZYpX39DbaIH1PEmXfEc/view), CTOs For Good talk
 - ["Scaling Teams"](https://s3.amazonaws.com/annlewis.tech/Scaling+Teams+-+Lessons+from+Non-Profits+and+Government.pdf), SF CTOs Club talk
 - ["The Political Tech Landscape"](https://www.infoq.com/podcasts/moveon-spoke-cto/), [InfoQ Podcast](https://www.infoq.com/podcasts/)
 - ["Architect and scale complex ecosystems of tools on a nonprofit budget"](https://plus.qconferences.com/plus2020/presentation/architectures-presentation), at [QCon Plus 2020](https://plus.qconferences.com/schedule/plus2020/tabular) [[Slides]](https://www.slideshare.net/AnnLewis7/the-world-is-on-fire-and-so-is-your-website)

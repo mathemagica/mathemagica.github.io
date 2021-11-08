@@ -3,7 +3,7 @@
 - [Twitter](https://twitter.com/ann_lewis) Note: I will <strong>not</strong> answer customer service inquiries on Twitter
 
 ## Events
-- ["Hacking Bureaucracy With Human-Centered Design"](https://docs.google.com/presentation/d/1mDOSXqu8z4eo8P3qMrkEmK-pZYpX39DbaIH1PEmXfEc/view#slide=id.gf515ac64bf_0_0), [Drupal GovCon 2021](https://www.drupalgovcon.org/2021-schedule) Keynote
+- ["Hacking Bureaucracy With Human-Centered Design"](https://docs.google.com/presentation/d/101X5edzRshPRf1r9r34zfGAYfwa7wRSfCNFZ1X-fXLQ/view), [Drupal GovCon 2021](https://www.drupalgovcon.org/2021-schedule) Keynote
 - ["Hybrid Teams"](https://docs.google.com/presentation/d/1mDOSXqu8z4eo8P3qMrkEmK-pZYpX39DbaIH1PEmXfEc/view), CTOs For Good talk
 - ["Scaling Teams"](https://s3.amazonaws.com/annlewis.tech/Scaling+Teams+-+Lessons+from+Non-Profits+and+Government.pdf), SF CTOs Club talk
 - ["The Political Tech Landscape"](https://www.infoq.com/podcasts/moveon-spoke-cto/), [InfoQ Podcast](https://www.infoq.com/podcasts/)

@@ -54,17 +54,17 @@
 
 [Download Large (900K)](https://s3.amazonaws.com/annlewis.tech/ann_hs-large.jpg)
 
-### Short Bio (46 words)
+### Short Bio (47 words)
 
-Ann Lewis is Senior Advisor for Technology Delivery at the <a href="https://www.sba.gov/">SBA</a>, focusing on service delivery, and all the places where policy implementation intersect with technology. She is a tech industry veteran passionate about helping decision makers better understand technology. 
+Ann Lewis is Senior Advisor for Technology and Delivery at the <a href="https://www.sba.gov/">SBA</a>, focusing on service delivery, and all the places where policy implementation intersect with technology. She is a tech industry veteran passionate about helping decision makers better understand technology. 
 
-### Medium Bio (76) words)
+### Medium Bio (77) words)
 
-Ann Lewis is Senior Advisor for Technology Delivery at the <a href="https://www.sba.gov/">SBA</a>, focusing on service delivery, system integration, procurement, and all the places where policy implementation intersect with technology. She is a tech industry veteran with deep expertise in cloud architecture, system migrations, distributed systems scaling, and cyber security. She is passionate about helping decision makers better understand technology, and making technical systems actually work for the people these systems serve. 
+Ann Lewis is Senior Advisor for Technology and Delivery at the <a href="https://www.sba.gov/">SBA</a>, focusing on service delivery, system integration, procurement, and all the places where policy implementation intersect with technology. She is a tech industry veteran with deep expertise in cloud architecture, system migrations, distributed systems scaling, and cyber security. She is passionate about helping decision makers better understand technology, and making technical systems actually work for the people these systems serve. 
 
-### Long Bio (170 words)
+### Long Bio (171 words)
 
-Ann Lewis is Senior Advisor for Technology Delivery at the <a href="https://www.sba.gov/">SBA</a>, focusing on service delivery, system integration, procurement, and all the places where policy implementation intersect with technology. She is part of a  cohort of technology leaders appointed to government agencies, with the goal of helping agencies work together more efficiently to deliver pandemic aid and economic recovery programs.
+Ann Lewis is Senior Advisor for Technology and Delivery at the <a href="https://www.sba.gov/">SBA</a>, focusing on service delivery, system integration, procurement, and all the places where policy implementation intersect with technology. She is part of a  cohort of technology leaders appointed to government agencies, with the goal of helping agencies work together more efficiently to deliver pandemic aid and economic recovery programs.
 
 Ann was previously the CTO of <a href="https://moveon.org">MoveOn</a> where she built the in-house tech team and helped the organization build and scale up core infrastructure. She is a <a href="https://www.cs.cmu.edu/">CMU</a> grad and tech industry veteran with deep expertise in cloud architecture, system migrations, distributed systems scaling, and cyber security. She is passionate about helping decision makers better understand technology, and making technical systems actually work for the people these systems serve. She decided to leave her role at MoveOn and join the Biden-Harris administration in early 2021, inspired by the administration's plans to contain COVID-19, support economic recovery, and center racial equity. 
 

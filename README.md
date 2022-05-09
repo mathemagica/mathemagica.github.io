@@ -50,9 +50,14 @@
 ## Bio and Pics
 
 ### Headshot
-[Download Small (200K)](https://s3.amazonaws.com/annlewis.tech/ann_hs-small.jpg)
+With flag [Download Small (600K)](https://s3.amazonaws.com/annlewis.tech/ann_hs_gov-small.jpg)
 
-[Download Large (900K)](https://s3.amazonaws.com/annlewis.tech/ann_hs-large.jpg)
+With flag [Download Large (6M)](https://s3.amazonaws.com/annlewis.tech/ann_hs_gov-large.jpg)
+
+Black background [Download Small (500K)](https://s3.amazonaws.com/annlewis.tech/ann_hs_blk-small.jpg)
+
+Black background [Download Large (5M)](https://s3.amazonaws.com/annlewis.tech/ann_hs_blk-large.jpg)
+
 
 ### Short Bio (47 words)
 

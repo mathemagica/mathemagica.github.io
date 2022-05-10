@@ -3,6 +3,7 @@
 - [Twitter](https://twitter.com/ann_lewis) Note: I will <strong>not</strong> answer customer service inquiries on Twitter
 
 ## Events
+- ["Build vs Buy at Scale"](https://docs.google.com/presentation/d/1iNd0MAq6UG7ebCgF1xUxjRu83vPNqcyFDzrdKMMUmJM/edit#slide=id.ge9090756a_1_58), [CTO Summit Chicago](https://www.ctoconnection.com/events/in-person/2022-05-12-the-2022-chicago-cto-summit)
 - ["Hacking Bureaucracy With Human-Centered Design"](https://docs.google.com/presentation/d/101X5edzRshPRf1r9r34zfGAYfwa7wRSfCNFZ1X-fXLQ/view), [Drupal GovCon 2021](https://www.drupalgovcon.org/2021-schedule) Keynote
 - ["Hybrid Teams"](https://docs.google.com/presentation/d/1mDOSXqu8z4eo8P3qMrkEmK-pZYpX39DbaIH1PEmXfEc/view), CTOs For Good talk
 - ["Scaling Teams"](https://s3.amazonaws.com/annlewis.tech/Scaling+Teams+-+Lessons+from+Non-Profits+and+Government.pdf), SF CTOs Club talk

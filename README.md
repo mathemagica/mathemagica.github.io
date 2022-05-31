@@ -60,19 +60,18 @@ Black background [Download Small (500K)](https://s3.amazonaws.com/annlewis.tech/
 Black background [Download Large (5M)](https://s3.amazonaws.com/annlewis.tech/ann_hs_blk-large.jpg)
 
 
-### Short Bio (47 words)
+### Short Bio (55 words)
 
-Ann Lewis is Senior Advisor for Technology and Delivery at the <a href="https://www.sba.gov/">SBA</a>, focusing on service delivery, and all the places where policy implementation intersect with technology. She is a tech industry veteran passionate about helping decision makers better understand technology. 
+Ann Lewis is the Chief Technology Officer of <a href="https://nextstreet.com/">Next Street</a>. Ann was previously Senior Advisor for Technology and Delivery to the administrator at the <a href="https://www.sba.gov/">US Small Business Administration</a>, and previously CTO of <a href="https://www.moveon.org/">MoveOn</a>. She is a tech industry veteran passionate about shipping great products, building great teams, and using tech as a force for good.
 
-### Medium Bio (77) words)
 
-Ann Lewis is Senior Advisor for Technology and Delivery at the <a href="https://www.sba.gov/">SBA</a>, focusing on service delivery, system integration, procurement, and all the places where policy implementation intersect with technology. She is a tech industry veteran with deep expertise in cloud architecture, system migrations, distributed systems scaling, and cyber security. She is passionate about helping decision makers better understand technology, and making technical systems actually work for the people these systems serve. 
+### Long Bio (173 words)
 
-### Long Bio (171 words)
+Ann Lewis is the Chief Technology Officer of <a href="https://nextstreet.com/">Next Street</a>. Ann Lewis was previously Senior Advisor for Technology and Delivery to the administrator at the <a href="https://www.sba.gov/">US Small Business Administration</a>, where she worked on technical strategy and service delivery for ARP programs, technology modernization and capacity building, and the many places where policy implementation intersects with technology. 
 
-Ann Lewis is Senior Advisor for Technology and Delivery at the <a href="https://www.sba.gov/">SBA</a>, focusing on service delivery, system integration, procurement, and all the places where policy implementation intersect with technology. She is part of a  cohort of technology leaders appointed to government agencies, with the goal of helping agencies work together more efficiently to deliver pandemic aid and economic recovery programs.
+Ann is a tech industry veteran with deep expertise in cloud architecture, full-stack software development, distributed systems scaling, and cyber security. Ann started her career as an early software engineer at Amazon, when Amazon was still a small business. Ann subsequently worked as a software engineer and technical leader at startups, consulting companies, and edtech companies, and from 2015-2021 Ann was the CTO of <a href="https://www.moveon.org/">MoveOn</a>, where she built the in-house tech team and helped the organization build and scale up core infrastructure. 
 
-Ann was previously the CTO of <a href="https://moveon.org">MoveOn</a> where she built the in-house tech team and helped the organization build and scale up core infrastructure. She is a <a href="https://www.cs.cmu.edu/">CMU</a> grad and tech industry veteran with deep expertise in cloud architecture, system migrations, distributed systems scaling, and cyber security. She is passionate about helping decision makers better understand technology, and making technical systems actually work for the people these systems serve. She decided to leave her role at MoveOn and join the Biden-Harris administration in early 2021, inspired by the administration's plans to contain COVID-19, support economic recovery, and center racial equity. 
+Ann is passionate about shipping great products, building great teams, and using tech as a force for good. Ann is based in DC, and holds a B.S. in Computer Science from <a href="https://www.scs.cmu.edu/">Carnegie Mellon University</a>.
 
 
 ## FAQ

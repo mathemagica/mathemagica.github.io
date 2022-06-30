@@ -77,7 +77,7 @@ Ann is passionate about shipping great products, building great teams, and using
 ## FAQ
 
 ### Do you run Anne Lewis Strategies?
-No. That's [the other Anne Lewis](http://annelewisllc.com/) who is a different person. I am also not Clinton strategist [Ann Frank Lewis](https://en.wikipedia.org/wiki/Ann_Lewis), or Japanese musician [Ann Lewis](https://en.wikipedia.org/wiki/Ann_Lewis_\(musician\)). It's a common name. 
+No. That's [the other Anne Lewis](http://annelewisllc.com/) who I assure you is a different person. I am also not Clinton strategist [Ann Frank Lewis](https://en.wikipedia.org/wiki/Ann_Lewis), or Japanese musician [Ann Lewis](https://en.wikipedia.org/wiki/Ann_Lewis_\(musician\)). It's possible that I'm the supporting character Ann Lewis from RoboCop though. 
 
 ### I'm a tech vendor, and I want to sell you something
 
@@ -85,8 +85,8 @@ Sorry, I don't take vendor cold calls, and I work to make vendor procurement pro
 
 ### What's the deal with political tech?
 
-Tech and data are not inherently partisan, though applications of technology can be used in partisan ways, and content can be partisan. The big challenge of political tech is the same challenge as the rest of the tech world: how to manage teams and vendors to build the right things at the right times, and build systems that actually work. And when you encounter success, the challenge becomes: how to scale up your systems to handle increased usage.
+Tech and data are not inherently partisan, though applications of technology can be used in partisan ways, and content can be partisan. The big challenge of political tech is the same challenge as the rest of the tech world: how to manage teams and vendors to build the right things at the right times, and build systems that actually work. And when you encounter success, the challenge becomes: how to scale up your systems and teams.
 
 ### Encouraging Girls In Tech
 
-**I have a daughter and I want her to have the opportunity to be interested in tech like you. What toys did you play with as a kid?** Sorry, your premise is flawed. Please read [**this**](https://medium.com/@ann_lewis/what-are-some-ways-to-inspire-girls-to-embrace-technology-3093759034c8) instead. It's not just about toys, it's also about entering and navigating a culture of sometimes unchecked sexism. 
+**I have a daughter and I want her to have the opportunity to be interested in tech like you. What toys did you play with as a kid?** Sorry, your premise is flawed. Please read [**this**](https://medium.com/@ann_lewis/what-are-some-ways-to-inspire-girls-to-embrace-technology-3093759034c8) instead. It's not about toys or scholarship funds, it's about actually noticing and dismantling oppressive behavior and systems in social, education, and workplace environments. 

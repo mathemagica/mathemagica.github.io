@@ -45,8 +45,6 @@
 - [The Software Engineering Learning Plan](https://medium.com/@ann_lewis/the-software-engineering-learning-plan-c4d97aedf913)
 - [What are some ways to inspire girls to embrace technology?](https://medium.com/@ann_lewis/what-are-some-ways-to-inspire-girls-to-embrace-technology-3093759034c8)
 - [The Myth of The Pipeline Problem](https://medium.com/@ann_lewis/the-myth-of-the-pipeline-problem-101d8fa1fcba) 
-- [Tech: Where Do I Fit In?](https://s3.amazonaws.com/gdicentralva/tech-where-do-i-fit-in/index.html#), Jan 2016.
-- [Salary Negotiation](http://s3.amazonaws.com/annlewis/salary_negotiation/index.html#/) Nov 2015
 
 ## Bio and Pics
 

@@ -1,6 +1,5 @@
 ## Social
 - [LinkedIn](https://www.linkedin.com/in/theannlewis)
-- [Twitter](https://twitter.com/ann_lewis) (personal account, opinions my own)
 
 ## Bio and Pics
 
@@ -14,20 +13,9 @@ Black background [Download Small (500K)](https://s3.amazonaws.com/annlewis.tech/
 Black background [Download Large (5M)](https://s3.amazonaws.com/annlewis.tech/ann_hs_blk-large.jpg)
 
 
-### Short Bio (76 words)
+### Bio (112 words)
 
-Ann Lewis is the Director of <a href="https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services">Technology Transformation Services (TTS)</a> at the <a href="https://www.gsa.gov/">U.S. General Services Administration (GSA)</a>. Ann was previously Senior Advisor for Technology and Delivery to the administrator at the <a href="https://www.sba.gov/">U.S. Small Business Administration</a>, previously CTO of <a href="https://nextstreet.com/">Next Street</a>, a financial services company, and CTO of <a href="https://www.moveon.org/">MoveOn</a>, a national nonprofit organization. She is a tech industry veteran passionate about shipping great products, building great teams, and using tech as a force for good.
-
-
-### Long Bio (213 words)
-
-Ann Lewis is the Director of <a href="https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services">Technology Transformation Services (TTS)</a> at the <a href="https://www.gsa.gov/">U.S. General Services Administration (GSA)</a>. TTS applies modern methodologies and technologies to improve the public's experience of government. TTS offers shared services, products, best practices, and standards that make it easier for agencies to deliver simple, seamless, and secure customer experiences.
-
-Ann was previously Senior Advisor for Technology and Delivery to the administrator at the <a href="https://www.sba.gov/">US Small Business Administration</a>, where she worked on technical strategy and service delivery, technology modernization and capacity building, and the many places where policy implementation intersects with technology. 
-
-Ann is a tech industry veteran with deep expertise in cloud architecture, full-stack software development, distributed systems scaling, and cyber security. Ann started her career as an early software engineer at Amazon, when Amazon was still a small business. Ann subsequently worked as a software engineer and technical leader at startups, consulting companies, and edtech companies, and from 2015-2021 Ann was the CTO of <a href="https://www.moveon.org/">MoveOn</a>, where she built the in-house tech team and helped the organization build and scale up core infrastructure. 
-
-Ann is passionate about shipping great products, building great teams, and using tech as a force for good. Ann is based in DC, and holds a B.S. in Computer Science from <a href="https://www.scs.cmu.edu/">Carnegie Mellon University</a>.
+Ann Lewis is the Director of <a href="https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services">Technology Transformation Services (TTS)</a> at the <a href="https://www.gsa.gov/">U.S. General Services Administration (GSA)</a>, and runs a team of ~600 technologists working on a variety of platforms, products and programs that bring tech industry best practices and tools into government. Ann is a tech industry veteran, and has held a variety of tech leadership roles, including 2 CTO roles, and Senior Advisor for Technology and Delivery at the <a href="https://www.sba.gov/">U.S. Small Business Administration</a>. Ann is passionate about shipping great products, building great teams, and using tech as a force for good. Ann is based in DC, and holds a B.S. in Computer Science from Carnegie Mellon University.
 
 ## Writing and Talks
 - [Build vs Buy at Scale](https://docs.google.com/presentation/d/1iNd0MAq6UG7ebCgF1xUxjRu83vPNqcyFDzrdKMMUmJM/edit#slide=id.ge9090756a_1_58), [CTO Summit Chicago](https://www.ctoconnection.com/events/in-person/2022-05-12-the-2022-chicago-cto-summit)

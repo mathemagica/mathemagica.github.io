@@ -76,6 +76,7 @@
     max-width: 17ch;
     margin: 0 0 1.75rem;
   }
+  .hero .build { font-size: 1.2rem; max-width: 42rem; margin: 0 0 1rem; line-height: 1.55; }
   .hero .roles {
     font-size: 1.2rem; color: var(--muted); max-width: 40rem; margin: 0 0 2rem; line-height: 1.5;
   }
@@ -112,7 +113,14 @@
   .offer h3 { margin: 0; }
   .offer p { margin: 0; }
   .offer .fmt { color: var(--muted); }
-  .start { margin: 1.75rem 0 0; font-weight: 500; }
+  .specialty { margin: 1.75rem 0 0; max-width: 40rem; }
+  .start { margin: 1rem 0 0; font-weight: 500; max-width: 40rem; }
+  .featured { margin-bottom: 3rem; }
+  .featured ul { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem 2rem; }
+  .featured a { font-weight: 700; font-size: 1.1rem; }
+  .featured .src { display: block; color: var(--muted); font-size: 0.95rem; margin-top: 0.15rem; }
+  .featured p { margin: 0.6rem 0 0; }
+  .all-h { color: var(--muted); font-weight: 500; margin-bottom: 1.5rem; }
 
   /* Speaking */
   .topics { list-style: none; padding: 0; margin: 0 0 2.5rem; display: grid; grid-template-columns: 1fr 1fr; gap: 1.75rem 2.5rem; }
@@ -151,6 +159,7 @@
     .grid { grid-template-columns: 1fr; gap: 1.5rem; }
     .offer { grid-template-columns: 1fr; gap: 0.35rem; }
     .topics { grid-template-columns: 1fr; }
+    .featured ul { grid-template-columns: 1fr; }
     .about-side img { max-width: 11rem; }
   }
   @media (max-width: 560px) {
@@ -179,7 +188,8 @@
   <main>
     <div class="hero">
       <h1>I help organizations align technology, people and policy so AI actually delivers.</h1>
-      <p class="roles">AI strategy and implementation advisor. Writer and speaker on AI and government capacity. Former Director of GSA's Technology Transformation Services.</p>
+      <p class="build">I've spent over a decade as a full-stack software engineer and another decade leading technology organizations, and I still build. I've recently taken new products from first line of code to launch: AI-native development, agentic system design, cloud architecture, scaling, observability and all the third-party integrations real products need.</p>
+      <p class="roles">Writer and speaker on AI and government capacity. Former Director of GSA's Technology Transformation Services.</p>
       <div class="actions">
         <a class="btn" href="https://ann-lewis.youcanbook.me/">Book a 30-minute intro call</a>
         <a class="plain" href="mailto:ann@annlewis.tech">ann@annlewis.tech</a>
@@ -207,7 +217,7 @@
           <ul class="offers">
             <li class="offer">
               <h3>AI strategy sprint</h3>
-              <p>For leaders deciding where AI fits, what to build or buy, and how to sell it to government. You get a clear assessment and a prioritized roadmap.</p>
+              <p>For leaders deciding where AI fits and what to build or buy. You get a clear assessment and a prioritized roadmap.</p>
               <p class="fmt">2 to 4 weeks, fixed fee</p>
             </li>
             <li class="offer">
@@ -226,7 +236,8 @@
               <p class="fmt">Half-day sessions, keynotes</p>
             </li>
           </ul>
-          <p class="start">Start with a 30-minute intro call: <a href="https://ann-lewis.youcanbook.me/">book a time</a>.</p>
+          <p class="specialty">A particular specialty: helping govtech and AI companies build for government and sell into it, drawing on my years leading technology inside federal agencies.</p>
+          <p class="start">Start with a 30-minute intro call: a short conversation about your goals, the work you have in mind, and whether we're a good fit. <a href="https://ann-lewis.youcanbook.me/">Book a time</a>.</p>
         </div>
       </div>
     </section>
@@ -254,6 +265,15 @@
       <div class="grid">
         <h2 id="writing-h">Writing and research</h2>
         <div>
+          <div class="featured">
+            <h3>Start here</h3>
+            <ul>
+              <li><a href="https://www.niskanencenter.org/the-product-operating-model-how-government-should-deliver-digital-services/">The product operating model</a> <span class="src">with Jennifer Pahlka, Niskanen Center, 2025</span><p>Government digital projects run late and over budget when they're funded as one-time projects. Fund and staff them as ongoing products, run by persistent teams measured on outcomes.</p></li>
+              <li><a href="https://www.niskanencenter.org/conways-law-at-government-scale/">Conway's Law at Government Scale</a> <span class="src">Niskanen Center, 2025</span><p>Duplicated sign-ins and clashing eligibility rules mirror agencies' internal silos. To deliver better services, start by building a better org chart.</p></li>
+              <li><a href="https://fas.org/publication/outcome-based-contracting/">Outcome-based contracting</a> <span class="src">Federation of American Scientists, 2026</span><p>Traditional acquisition locks in requirements early and rewards finishing milestones. Tying funding to measurable mission outcomes, delivered in stages, surfaces risk sooner.</p></li>
+            </ul>
+          </div>
+          <h3 class="all-h">All writing</h3>
           <div class="theme">
             <h3>AI and government</h3>
             <ul class="pubs">

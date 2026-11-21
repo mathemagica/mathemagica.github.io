@@ -122,6 +122,11 @@
   .featured p { margin: 0.6rem 0 0; }
   .all-h { color: var(--muted); font-weight: 500; margin-bottom: 1.5rem; }
 
+  /* Built */
+  .builds { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 2rem 2.5rem; }
+  .builds h3 { font-size: 1.2rem; }
+  .builds p { margin: 0; max-width: 34rem; }
+
   /* Speaking */
   .topics { list-style: none; padding: 0; margin: 0 0 2.5rem; display: grid; grid-template-columns: 1fr 1fr; gap: 1.75rem 2.5rem; }
   .topics p { margin: 0; color: var(--muted); }
@@ -160,6 +165,7 @@
     .offer { grid-template-columns: 1fr; gap: 0.35rem; }
     .topics { grid-template-columns: 1fr; }
     .featured ul { grid-template-columns: 1fr; }
+    .builds { grid-template-columns: 1fr; }
     .about-side img { max-width: 11rem; }
   }
   @media (max-width: 560px) {
@@ -179,6 +185,7 @@
     <a class="name" href="/">Ann Lewis</a>
     <nav aria-label="Sections">
       <a href="#work">Work with me</a>
+      <a href="#built">Built</a>
       <a href="#speaking">Speaking</a>
       <a href="#writing">Writing</a>
       <a href="#contact">Contact</a>
@@ -239,6 +246,22 @@
           <p class="specialty">A particular specialty: helping govtech and AI companies build for government and sell into it, drawing on my years leading technology inside federal agencies.</p>
           <p class="start">Start with a 30-minute intro call: a short conversation about your goals, the work you have in mind, and whether we're a good fit. <a href="https://ann-lewis.youcanbook.me/">Book a time</a>.</p>
         </div>
+      </div>
+    </section>
+
+    <section id="built" aria-labelledby="built-h">
+      <div class="grid">
+        <h2 id="built-h">Things I've built</h2>
+        <ul class="builds">
+          <li>
+            <h3><a href="https://github.com/mathemagica/consulting-portfolio-coach">Consulting portfolio coach</a></h3>
+            <p>An open-source agent skill for Claude Code and Codex that helps independent consultants track leads, scope work, balance income goals against their time, and run regular check-ins, with notes kept private on their own computer. Colleagues are already using it.</p>
+          </li>
+          <li>
+            <h3><a href="https://github.com/mathemagica/skills">Software architecture skills for AI coding agents</a></h3>
+            <p>A library of 29 skills that give coding agents senior-level architecture judgment, from data modeling and API design to queues, idempotency, observability and AWS deployment defaults, plus playbooks for building a new web app, assessing a refactor and diagnosing scaling problems.</p>
+          </li>
+        </ul>
       </div>
     </section>
 

@@ -90,8 +90,7 @@
   /* Alignment strands */
   .strands { display: block; width: 100%; height: auto; margin-top: 3.5rem; overflow: visible; }
   .strands-wrap { overflow: hidden; }
-  .strands-sm { display: none; }
-  @media (max-width: 560px) { .strands-lg { display: none; } .strands-sm { display: block; } }
+  @media (max-width: 560px) { .strands-wrap { display: none; } }
   .strands path { fill: none; stroke-width: 3; stroke-linecap: round; vector-effect: non-scaling-stroke; }
   .strands .s-tech { stroke: var(--tech); }
   .strands .s-people { stroke: var(--people); }
@@ -204,7 +203,7 @@
         <a class="plain" href="mailto:ann@annlewis.tech">ann@annlewis.tech</a>
       </div>
 
-      <div class="strands-wrap"><svg class="strands strands-lg" viewBox="0 0 1100 170" role="img" aria-label="Three lines labeled technology, people and policy start apart and join into one line.">
+      <div class="strands-wrap"><svg class="strands" viewBox="0 0 1100 170" role="img" aria-label="Three lines labeled technology, people and policy start apart and join into one line.">
         <text x="0" y="24">technology</text>
         <text x="0" y="89">people</text>
         <text x="0" y="154">policy</text>
@@ -212,15 +211,6 @@
         <path class="s-people draw" pathLength="1" d="M80 84 C 220 120, 330 40, 450 92 S 610 84, 700 85"/>
         <path class="s-policy draw" pathLength="1" d="M75 149 C 260 150, 330 175, 460 130 S 620 86, 700 85"/>
         <path class="s-one draw" pathLength="1" d="M700 85 L 1100 85"/>
-      </svg>
-      <svg class="strands strands-sm" viewBox="0 0 400 170" role="img" aria-label="Three lines labeled technology, people and policy start apart and join into one line.">
-        <text x="0" y="24">technology</text>
-        <text x="0" y="89">people</text>
-        <text x="0" y="154">policy</text>
-        <path class="s-tech draw" pathLength="1" d="M88 19 C 150 19, 170 0, 215 40 S 265 86, 300 85"/>
-        <path class="s-people draw" pathLength="1" d="M60 84 C 120 115, 160 50, 210 92 S 265 84, 300 85"/>
-        <path class="s-policy draw" pathLength="1" d="M56 149 C 130 150, 165 170, 215 128 S 265 86, 300 85"/>
-        <path class="s-one draw" pathLength="1" d="M300 85 L 400 85"/>
       </svg></div>
     </div>
 

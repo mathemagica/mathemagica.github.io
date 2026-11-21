@@ -76,7 +76,10 @@
     max-width: 17ch;
     margin: 0 0 1.75rem;
   }
-  .hero .build { font-size: 1.2rem; max-width: 42rem; margin: 0 0 1rem; line-height: 1.55; }
+  .hero .sub { font-size: 1.35rem; line-height: 1.45; max-width: 40rem; margin: 0 0 1rem; font-weight: 500; letter-spacing: -0.01em; }
+  .btn.btn-quiet { background: transparent; color: var(--ink); box-shadow: inset 0 0 0 1.5px var(--ink); }
+  .btn.btn-quiet:hover { background: transparent; color: var(--link); box-shadow: inset 0 0 0 1.5px var(--link); }
+  .call-note { color: var(--muted); font-size: 0.95rem; margin: 0.9rem 0 0; }
   .hero .roles {
     font-size: 1.2rem; color: var(--muted); max-width: 40rem; margin: 0 0 2rem; line-height: 1.5;
   }
@@ -184,8 +187,8 @@
   <header class="top">
     <a class="name" href="/">Ann Lewis</a>
     <nav aria-label="Sections">
-      <a href="#work">Work with me</a>
       <a href="#built">Built</a>
+      <a href="#work">Work with me</a>
       <a href="#speaking">Speaking</a>
       <a href="#writing">Writing</a>
       <a href="#contact">Contact</a>
@@ -194,13 +197,31 @@
 
   <main>
     <div class="hero">
-      <h1>I help organizations align technology, people and policy so AI actually delivers.</h1>
-      <p class="roles">Working out where AI fits in your organization or product? Let's talk.</p>
+      <h1>AI strategy, architecture and hands-on engineering.</h1>
+      <p class="sub">I help organizations decide where AI belongs, build useful products and agentic systems, and lead the technical work from idea to implementation.</p>
+      <p class="roles">Previously led GSA's Technology Transformation Services and served as CTO of MoveOn. I also write and speak about AI and government capacity.</p>
       <div class="actions">
-        <a class="btn" href="https://ann-lewis.youcanbook.me/">Book a 30-minute intro call</a>
-        <a class="plain" href="mailto:ann@annlewis.tech">ann@annlewis.tech</a>
+        <a class="btn" href="https://ann-lewis.youcanbook.me/">Discuss a project</a>
+        <a class="btn btn-quiet" href="#built">Explore my work</a>
       </div>
+      <p class="call-note">A 30-minute conversation about your goals and whether we're a good fit.</p>
     </div>
+
+    <section id="built" aria-labelledby="built-h">
+      <div class="grid">
+        <h2 id="built-h">Things I've built</h2>
+        <ul class="builds">
+          <li>
+            <h3><a href="https://github.com/mathemagica/consulting-portfolio-coach">Consulting portfolio coach</a></h3>
+            <p>An open-source agent skill for Claude Code and Codex that helps independent consultants track leads, scope work, balance income goals against their time, and run regular check-ins, with notes kept private on their own computer. Colleagues are already using it.</p>
+          </li>
+          <li>
+            <h3><a href="https://github.com/mathemagica/skills">Software architecture skills for AI coding agents</a></h3>
+            <p>A library of 29 skills that give coding agents senior-level architecture judgment, from data modeling and API design to queues, idempotency, observability and AWS deployment defaults, plus playbooks for building a new web app, assessing a refactor and diagnosing scaling problems.</p>
+          </li>
+        </ul>
+      </div>
+    </section>
 
     <section id="about" aria-labelledby="about-h">
       <div class="grid">
@@ -209,10 +230,9 @@
           <img src="https://s3.amazonaws.com/annlewis.tech/ann_hs_gov-small.jpg" alt="Portrait of Ann Lewis" loading="lazy">
         </div>
         <div class="prose">
-          <p class="lead">Through her consulting practice, Systemic Alignment, Ann works with companies building for government and teams putting AI to work: setting strategy, designing agentic systems and architecture, and serving as a fractional technology leader.</p>
           <p>Ann Lewis helps organizations align technology, people and policy so AI actually delivers. She advises companies and public interest organizations on AI strategy and implementation, and writes and speaks on AI and government capacity. She previously led GSA's Technology Transformation Services and was Chief Technology Officer of MoveOn, after more than a decade as a full-stack software engineer. She still builds: she has recently taken new products from first line of code to launch, from AI-native development and agentic system design to cloud architecture, scaling, observability and all the third-party integrations real products need.</p>
-          <p>She also writes and speaks on how AI is changing what government can do, including research with the Niskanen Center and the Federation of American Scientists.</p>
-          <p>Previously, Ann led GSA's Technology Transformation Services, about 700 technologists building shared platforms and services for the federal government. She was Senior Advisor for Technology and Delivery at the Small Business Administration during American Rescue Plan delivery, and Chief Technology Officer of MoveOn for more than five years. Her writing on the <a href="https://www.niskanencenter.org/the-product-operating-model-how-government-should-deliver-digital-services/">product operating model</a>, <a href="https://www.niskanencenter.org/conways-law-at-government-scale/">Conway's Law at government scale</a> and <a href="https://fas.org/publication/outcome-based-contracting/">outcome-based contracting</a> is used by public-sector technology leaders.</p>
+          <p>Through her consulting practice, Systemic Alignment, Ann works with companies building for government and teams putting AI to work: setting strategy, designing agentic systems and architecture, and serving as a fractional technology leader.</p>
+          <p>At GSA she led about 700 technologists building shared platforms and services for the federal government, and at the Small Business Administration she was Senior Advisor for Technology and Delivery during American Rescue Plan delivery. Her research with the Niskanen Center and the Federation of American Scientists, including her writing on the <a href="https://www.niskanencenter.org/the-product-operating-model-how-government-should-deliver-digital-services/">product operating model</a>, <a href="https://www.niskanencenter.org/conways-law-at-government-scale/">Conway's Law at government scale</a> and <a href="https://fas.org/publication/outcome-based-contracting/">outcome-based contracting</a> is used by public-sector technology leaders.</p>
         </div>
       </div>
     </section>
@@ -249,21 +269,6 @@
       </div>
     </section>
 
-    <section id="built" aria-labelledby="built-h">
-      <div class="grid">
-        <h2 id="built-h">Things I've built</h2>
-        <ul class="builds">
-          <li>
-            <h3><a href="https://github.com/mathemagica/consulting-portfolio-coach">Consulting portfolio coach</a></h3>
-            <p>An open-source agent skill for Claude Code and Codex that helps independent consultants track leads, scope work, balance income goals against their time, and run regular check-ins, with notes kept private on their own computer. Colleagues are already using it.</p>
-          </li>
-          <li>
-            <h3><a href="https://github.com/mathemagica/skills">Software architecture skills for AI coding agents</a></h3>
-            <p>A library of 29 skills that give coding agents senior-level architecture judgment, from data modeling and API design to queues, idempotency, observability and AWS deployment defaults, plus playbooks for building a new web app, assessing a refactor and diagnosing scaling problems.</p>
-          </li>
-        </ul>
-      </div>
-    </section>
 
     <section id="speaking" aria-labelledby="speaking-h">
       <div class="grid">

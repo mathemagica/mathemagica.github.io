@@ -130,6 +130,7 @@
   .builds h3 { font-size: 1.2rem; }
   .builds p { margin: 0; max-width: 34rem; }
   .builds .build-lead { grid-column: 1 / -1; }
+  .more-work { margin: 2rem 0 0; color: var(--muted); }
   .builds .build-lead p { max-width: 44rem; }
 
   /* Speaking */
@@ -144,8 +145,6 @@
   .theme:last-child { margin-bottom: 0; }
   .pubs { list-style: none; padding: 0; margin: 0; }
   .pubs li { padding: 0.5rem 0; display: grid; grid-template-columns: 1fr auto; gap: 1.5rem; align-items: baseline; border-bottom: 1px solid var(--rule); }
-  .pubs a { color: var(--ink); text-decoration-color: var(--rule); }
-  .pubs a:hover { color: var(--link); text-decoration-color: currentColor; }
   .pubs .src { color: var(--muted); font-size: 0.95rem; white-space: nowrap; }
   details { margin-top: 2.5rem; }
   summary { cursor: pointer; font-weight: 700; padding: 0.25rem 0; }
@@ -212,20 +211,23 @@
     <section id="built" aria-labelledby="built-h">
       <div class="grid">
         <h2 id="built-h">Things I've built</h2>
-        <ul class="builds">
-          <li class="build-lead">
-            <h3><a href="https://github.com/mathemagica/skills/tree/main/product_development">Idea to market: from a conversation to a working product</a></h3>
-            <p>A tested method, packaged as open-source agent skills, for turning a product idea into a working prototype, no technical background required. The idea owner talks through their vision while showing their current tools, sketches or prototype. AI turns the recording into a proposed first version and a requirements document, which they review and approve, and agents build a first version people can try. Further skills cover market testing and taking a prototype to a real production release.</p>
-          </li>
-          <li>
-            <h3><a href="https://github.com/mathemagica/skills">Software architecture skills for AI coding agents</a></h3>
-            <p>A library of 29 skills that give coding agents senior-level architecture judgment, from data modeling and API design to queues, idempotency, observability and AWS deployment defaults, plus playbooks for building a new web app, assessing a refactor and diagnosing scaling problems.</p>
-          </li>
-          <li>
-            <h3><a href="https://github.com/mathemagica/consulting-portfolio-coach">Consulting portfolio coach</a></h3>
-            <p>An open-source agent skill for Claude Code and Codex that helps independent consultants track leads, scope work, balance income goals against their time, and run regular check-ins, with notes kept private on their own computer.</p>
-          </li>
-        </ul>
+        <div>
+          <ul class="builds">
+            <li class="build-lead">
+              <h3><a href="https://github.com/mathemagica/skills/tree/main/product_development">Idea to market: from a conversation to a working product</a></h3>
+              <p>A tested method, packaged as open-source agent skills, for turning a product idea into a working prototype, no technical background required. The idea owner talks through their vision while showing their current tools, sketches or prototype. AI turns the recording into a proposed first version and a requirements document, which they review and approve, and agents build a first version people can try. Further skills cover market testing and taking a prototype to a real production release.</p>
+            </li>
+            <li>
+              <h3><a href="https://github.com/mathemagica/skills">Software architecture skills for AI coding agents</a></h3>
+              <p>A library of 29 skills that give coding agents senior-level architecture judgment, from data modeling and API design to queues, idempotency, observability and AWS deployment defaults, plus playbooks for building a new web app, assessing a refactor and diagnosing scaling problems.</p>
+            </li>
+            <li>
+              <h3><a href="https://github.com/mathemagica/consulting-portfolio-coach">Consulting portfolio coach</a></h3>
+              <p>An open-source agent skill for Claude Code and Codex that helps independent consultants track leads, scope work, balance income goals against their time, and run regular check-ins, with notes kept private on their own computer.</p>
+            </li>
+          </ul>
+          <p class="more-work">More of what I've built is on <a href="https://github.com/mathemagica">GitHub</a> and <a href="https://linkedin.com/in/theannlewis">LinkedIn</a>.</p>
+        </div>
       </div>
     </section>
 
